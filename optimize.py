@@ -6,18 +6,18 @@ from copy import *
 ##Algorithm that uses graph search to find different possible time combinations for courses assuming they have the same course name
 def timedontconflict(timedata,times):
     t=timedata+times
-    t.sort(key=lambda x:abs(x))
+    t.sort(key=lambda x:abs(x)) #sorts times
     for i in range(len(t)-1):
         if t[i]>0 and t[i+1]>0:
             return False
     return True
-def recursedat(data,ind,curarr,timedata,co):
-    if ind==len(data):
+def recursedat(data,ind,curarr,timedata,co): #set term season as a variable too.. will have to communicate this in page code too
+    if ind==len(data): #we've reached the last in the string of possibilities
         return [curarr]
     poslist=[]
     for i in range(len(data[ind])):
         n=copy(curarr)
-        n.append(data[ind][i])
+        n.append(data[ind][i]) #selects id from array
         times=[]
         st=int(co.find_one({"_id":data[ind][i]})["start_time"])
         ed=int(co.find_one({"_id":data[ind][i]})["end_time"])
@@ -36,6 +36,7 @@ def recursedat(data,ind,curarr,timedata,co):
             
 while True:
     f=open("queue.txt","r")
+    #checks users who need options sorted
     m=MongoClient()
     g=m.unisq
     us=g.Users
@@ -44,14 +45,15 @@ while True:
     buf=f.readline()
     used=[]
     while buf!="":
-        if buf in used:
+        if buf in used: #makes sure user hasn't already been searched this session
             buf=f.readline()
             continue
         usid=int(buf)
         
-        clist=us.find_one({"_id":usid})#["courses"]
+        
+        clist=us.find_one({"_id":usid}) #looks up DB entry for user and their desired courses
         if clist:
-            clist=clist["courses"]
+            clist=clist["courses"] #here include season e.g clist["wintercourses"]
         else:
             buf=f.readline()
             continue
@@ -63,7 +65,7 @@ while True:
                 mp[d].append(i)
             else:
                 mp[d]=[i]
-        dat=list(mp.values())
+        dat=list(mp.values()) #all the time info and stuff???
         choi=recursedat(dat,0,[],[],co)
         be.update({"_id":usid},{"_id":usid,"select":choi})
         buf=f.readline()
