@@ -1,0 +1,15 @@
+$(document).ready(function() {
+    $("#password2").keyup(validate);
+})
+
+function validate() {
+    var password = $("#txtNewPassword").val();
+    var confirmPassword = $("#txtConfirmPassword").val();
+
+    if (password != confirmPassword)
+
+        $("#pwdmsg").html("Passwords do not match!");
+    else
+
+        $("#pwdmsg").html("Passwords match.");
+}

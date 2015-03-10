@@ -1,0 +1,6 @@
+function draw() {
+    var xofset=50;
+    var yofset=50;
+    
+    var elem=$('#calapp')[0];
+    
