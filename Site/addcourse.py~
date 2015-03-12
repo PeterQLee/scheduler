@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+#Script that adds course selected via html parameters to database
 import cgi
 import http.cookies as Cookies
 import sys

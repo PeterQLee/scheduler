@@ -41,7 +41,7 @@ if validcook:
     Wflag=form.getfirst("W")
     Rflag=form.getfirst("R")
     Fflag=form.getfirst("F")
-    desc=form.getfirst("desc")
+    season=form.getfirst("season")
     noflag=False
     if not name or not start or not end:
         noflag=True
@@ -63,7 +63,7 @@ if validcook:
     if Fflag:
         day.append("Friday")
     if not co.find_one({"Name":name,"start_time":start,"end_time":end,"day":day}) and not noflag:
-        co.insert({"_id":_id,"Name":name,"start_time":start,"end_time":end,"desc":desc,"day":day})
+        co.insert({"_id":_id,"Name":name,"start_time":start,"end_time":end,"season":season,"day":day})
         print ("""
 <p>Course Added Successfully!""")
         

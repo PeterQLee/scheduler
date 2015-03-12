@@ -46,7 +46,7 @@ if validcook:
     day=[]
     start_time=[]
     end_time=[]
-    desc=[]
+    season=[]
     #process data
     curind=0
     for i in range(len(allCourses)):
@@ -54,7 +54,7 @@ if validcook:
         name.append(allCourses[i]["Name"])
         start_time.append(allCourses[i]["start_time"])
         end_time.append(allCourses[i]["end_time"])                    
-        desc.append(allCourses[i]["desc"])
+        season.append(allCourses[i]["season"]) #formerly desc
         if len(userCourses)!=0:
             if allCourses[i]["_id"] in userCourses:
                 selected.append(i)
@@ -85,9 +85,9 @@ if validcook:
 <th>Start-Time</th>
 <th>End-Time</th>
 <th>Days</th>
-<th>Description</th>
+<th>Season</th>
 </tr>
-""")
+""") #changed description to season
     curind=0
     for i in range(len(allCourses)):
         checked=False##not sure if i should format as int or string
@@ -103,7 +103,7 @@ if validcook:
         print ("""<td>%s</td>"""%start_time[i])
         print ("""<td>%s</td>"""%end_time[i])
         print ("""<td align="left">%s %s %s %s %s</td>"""%(day[i][0],day[i][1],day[i][2],day[i][3],day[i][4]))
-        print ("""<td>%s</td>"""%desc[i])
+        print ("""<td id=seas%d>%s</td>"""%(_id[i],season[i])) #give season its own ID
     print("""
 </table>
 <input type="submit" id="choose" value="Choose Courses">
@@ -119,14 +119,14 @@ if validcook:
 <th>Start-Time</th>
 <th>End-Time</th>
 <th>Days<br>M T W R F</th>
-<th>Description</th>
+<th>Winter?</th>
 </tr>
 <tr>
 <td><input type="text" name="cname" id="cname"></td>
 <td><input type="text" id="start_time" name="start_time"></td>
 <td><input type="text" id="end_time" name="end_time"></td>
 <td><input type="checkbox" name="M" id="M"><input type="checkbox" name="T" id="T"><input type="checkbox" name="W" id="W"><input type="checkbox" name="R" id="R"><input type="checkbox" name="F" id="F"></td>
-<td><textarea id="desc" name="desc" rows=5 cols=20></textarea></td>
+<td><input type="checkbox" id="season" name="season"></td>
 </tr>
 </table>
 <input type="submit" value="Add Course" id="addcourse" disabled>

@@ -18,7 +18,7 @@ cook=Cookies.SimpleCookie()
 print ("Content-Type:text/html")
 validcook=True
 d=0
-if os.environ.get("HTTP_COOKIE"):
+if os.environ.get("HTTP_COOKIE"): #check login
     cook.load(os.environ["HTTP_COOKIE"])
     u=checkcookie.checkcookie(cook["session"].value)
     d=cook["session"].value
@@ -36,14 +36,21 @@ if validcook:
     
     db=g.Users #check
     idlist=[]
-    for i in form:
+    for i in form: 
         if i.isdigit():###redo
             idlist.append(int(i))
     #check to make sure ids are in course load
     c=g.Courses
     uselist=[]
-    for i in idlist:
+    first=True
+    season=""
+    for i in idlist: #makes sure user didn't spoof the form to add a course from a different season
         if c.find_one({"_id":i}):
+            season=c.find_one({"_id":i})["season"]
+            break
+    
+    for i in idlist:
+        if c.find_one({"_id":i,"season":season}):
             uselist.append(i)
     n=db.find_one({"email":usemail})["pass"]
     d=db.find_one({"email":usemail})["_id"]

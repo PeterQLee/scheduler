@@ -7,7 +7,28 @@ $(document).ready(function(){
     $("#W").change(timeEnter);
     $("#R").change(timeEnter);
     $("#F").change(timeEnter);
-});
+    $("#season").change(timeEnter);
+    //var i=1;
+    
+    // while ($("#"+i).length!=0) { //need a better way, wont be sequential
+    var selected = [];
+    $('#checkboxes input:checked').each(function() {
+	    selected.push($(this).attr('name'));
+	});
+    if (selected.length>0) courseEnter();
+    
+    //$("#"+i).change(courseEnter);
+	//i+=1;
+    }
+
+    //var checkboxes = $("input[type='checkbox']").
+
+    //use a loop to determine when to stop checking for #ids of numbers, 1,2,3,4,
+    
+//FUTURE ME: update so that only courses of the same season can be selected
+function courseEnter() {
+    console.log("EYYY");
+}
 //make sure at least one day of week is selected
 //make sure times are valid too
 function timeEnter() {
@@ -20,6 +41,7 @@ function timeEnter() {
     var Wflag=$("#W").is(':checked');
     var Rflag=$("#R").is(':checked');
     var Fflag=$("#F").is(':checked');
+    var seasflag=("#season").is(':checked');
     var numst=parseInt(start);
     var numend=parseInt(end);
     if (start.length!=4 || end.length!=4 || !regex.test(start)||!regex.test(end)||cname.length==0){

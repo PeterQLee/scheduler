@@ -7,6 +7,7 @@ $(document).ready(function(){
     $("#W").change(timeEnter);
     $("#R").change(timeEnter);
     $("#F").change(timeEnter);
+    $("#season").change(timeEnter);
 });
 //make sure at least one day of week is selected
 //make sure times are valid too
@@ -20,6 +21,7 @@ function timeEnter() {
     var Wflag=$("#W").is(':checked');
     var Rflag=$("#R").is(':checked');
     var Fflag=$("#F").is(':checked');
+    var seasflag=("#season").is(':checked');
     var numst=parseInt(start);
     var numend=parseInt(end);
     if (start.length!=4 || end.length!=4 || !regex.test(start)||!regex.test(end)||cname.length==0){

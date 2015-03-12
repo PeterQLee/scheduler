@@ -85,7 +85,7 @@ checked
 <td><input type="text" id="start_time" name="start_time"></td>
 <td><input type="text" id="end_time" name="end_time"></td>
 <td><input type="checkbox" name="M" id="M"><input type="checkbox" name="T" id="T"><input type="checkbox" name="W" id="W"><input type="checkbox" name="R" id="R"><input type="checkbox" name="F" id="F"></td>
-<td><input type="checkbox" id="season" name="desc" rows=5 cols=20></textarea></td>
+<td><textarea id="desc" name="desc" rows=5 cols=20></textarea></td>
 </tr>
 </table>
 <input type="submit" value="Add Course" id="addcourse" disabled>
