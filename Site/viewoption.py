@@ -45,7 +45,7 @@ if validcook:
         print ("<ol>")
         for i in range(len(n)):
             print ("""<li><a href="viewoption.py?pnum=%d">Option %d</a></li>"""%(i,i+1))
-            
+
         print ("</ol>")
         print ("""</br>
 <b>If your selections are not here, try refreshing the page after several seconds. It is also possible that there are no possible schedule options with your current course selections</b>""")
@@ -60,7 +60,7 @@ if validcook:
             cur=n[int(p)]
         #get start/end times
             times=[]
-            ky={"Monday":0,"Tuesday":1,"Wednesday":2,"Thursday":3,"Friday":4}
+            ky={"M":0,"T":1,"W":2,"R":3,"F":4}
             for b in cur: #b=courseid
             #kyxy=[]
                 nm=cs.find_one({"_id":b})["Name"]

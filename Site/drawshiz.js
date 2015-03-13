@@ -34,6 +34,7 @@ function sortdat(lit) {
     
 }
 function draw() {
+    console.log("ER")
     var xofset=50;
     var yofset=50;
     //data=[[1,"TEST",100,200]]
@@ -41,7 +42,7 @@ function draw() {
     var names=[]
     var coords=[]
     for (var i=0;i<data.length;i++) {
-	if ($("#"+data[i].toString()).is(':checked')) {
+	if ($("#"+data[i][0].toString()).is(':checked')) {
 	    tpcords=[]
 	    names.push(data[i][1]+": "+data[i][0].toString());
 	    for (var j=2;j<data[i].length;j+=2) {

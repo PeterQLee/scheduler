@@ -49,15 +49,15 @@ if validcook:
         end=int(n["end_time"])
         for j in n["day"]:
             coff=0
-            if j=="Monday":
+            if j=="M":#"Monday":
                 coff=0
-            if j=="Tuesday":
+            if j=="T":
                 coff=1
-            if j=="Wednesday":
+            if j=="W":
                 coff=2
-            if j=="Thursday":
+            if j=="R":
                 coff=3
-            if j=="Friday":
+            if j=="F":
                 coff=4
             times.append(coff*2400+st)
             times.append(coff*2400+end)

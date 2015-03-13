@@ -22,7 +22,7 @@ def recursedat(data,ind,curarr,timedata,co): #set term season as a variable too.
         st=int(co.find_one({"_id":data[ind][i]})["start_time"])
         ed=int(co.find_one({"_id":data[ind][i]})["end_time"])
         dy=co.find_one({"_id":data[ind][i]})["day"]
-        dap={"Monday":0,"Tuesday":1,"Wednesday":2,"Thursday":3,"Friday":4}
+        dap={"M":0,"T":1,"W":2,"R":3,"F":4}
         for j in dy:
             times.append(st+2400*dap[j])
             times.append(-ed+-2400*dap[j])
@@ -59,12 +59,14 @@ while True:
             continue
         #time to organize these into name groups
         mp={}
+        
         for i in clist:
             d=co.find_one({"_id":i})["Name"]
             if mp.get(d):
                 mp[d].append(i)
             else:
                 mp[d]=[i]
+        print(d+" is with "+str(mp))
         dat=list(mp.values()) #all the time info and stuff???
         choi=recursedat(dat,0,[],[],co)
         be.update({"_id":usid},{"_id":usid,"select":choi})
