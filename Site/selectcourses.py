@@ -35,7 +35,7 @@ if validcook:
     allCourses=[]
    
     c=g.Courses
-    allCourses=list(c.find())
+    allCourses=list(c.find()) ##resstrict to catagories
     ty=g.Users
     userCourses=list(ty.find_one({"email":curemail})["courses"])
     
@@ -62,7 +62,7 @@ if validcook:
         
         dy=["","","","",""]
         for j in allCourses[i]["day"]:
-            if j=="Monday":
+            if j=="Monday": ##change to letter
                 dy[0]="M&nbsp;"
             elif j=="Tuesday":
                 dy[1]="T&nbsp;"
