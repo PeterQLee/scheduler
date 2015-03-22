@@ -34,7 +34,7 @@ function sortdat(lit) {
     
 }
 function draw() {
-    console.log("ER")
+
     var xofset=50;
     var yofset=50;
     //data=[[1,"TEST",100,200]]
@@ -133,7 +133,7 @@ function draw() {
 	context.closePath();
 	context.stroke();
     }
-    context.font="bold 12px sans-serif";
+    context.font="bold 9px sans-serif";
     for (var i=0;i<=1440;i+=60) {
 	context.fillText(Math.floor(i/60).toString()+"00-",0,i+yofset+4);
     }
@@ -146,7 +146,21 @@ function draw() {
     context.fillStyle="#00FF00";
     for (var i=0;i<names.length;i++) {
 	for (var j=0;j<coords[i].length;j+=2) {
-	    context.fillText(names[i],coords[i][j]+xofset+10,coords[i][j+1]+yofset+10);
+	    textInPlace(names[i],coords[i][j]+xofset+10,coords[i][j+1]+yofset+10,context)
+	    //context.fillText(names[i],coords[i][j]+xofset+10,coords[i][j+1]+yofset+10);
 	}
     }
+}
+
+function textInPlace(name,xstart,ystart,context) {
+    var totlen=name.length;
+    var increment=10;
+    var heightspacing=10;
+    var i;
+    for (i=0;i<totlen/increment-1;i++) { //fills in text with appopriate spacing
+	var k=name.substring(i*increment,(i+1)*increment);
+		
+	context.fillText(k,xstart,ystart+heightspacing*i);
+    }
+    context.fillText(name.substring(i*increment,totlen),xstart,ystart+heightspacing*i);
 }

@@ -10,7 +10,7 @@ $(document).ready(function(){
     $("#season").change(timeEnter);
     //var i=1;
     
-    // while ($("#"+i).length!=0) { //need a better way, wont be sequential
+    /*
     var selected = [];
     $('#checkboxes input:checked').each(function() {
 	    selected.push($(this).attr('name'));
@@ -19,16 +19,16 @@ $(document).ready(function(){
     
     //$("#"+i).change(courseEnter);
 	//i+=1;
-    }
+    }*/
 
-    //var checkboxes = $("input[type='checkbox']").
-
-    //use a loop to determine when to stop checking for #ids of numbers, 1,2,3,4,
+}
     
 //FUTURE ME: update so that only courses of the same season can be selected
-function courseEnter() {
+/*function courseEnter() {
     console.log("EYYY");
-}
+}*/
+
+
 //make sure at least one day of week is selected
 //make sure times are valid too
 function timeEnter() {
