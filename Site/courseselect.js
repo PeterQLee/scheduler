@@ -21,7 +21,7 @@ $(document).ready(function(){
 	//i+=1;
     }*/
 
-}
+});
     
 //FUTURE ME: update so that only courses of the same season can be selected
 /*function courseEnter() {
@@ -31,7 +31,7 @@ $(document).ready(function(){
 
 //make sure at least one day of week is selected
 //make sure times are valid too
-function timeEnter() {
+ function timeEnter() {
     var start=$("#start_time").val();
     var end=$("#end_time").val();
     var regex= /[0-9]/;
