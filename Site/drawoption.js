@@ -1,12 +1,13 @@
 $(document).ready(function(){
     $("#sel-list").change(draw);
+    draw();
 });
 
 function draw() {
-    var optionnum=$("#sel-list").selectedIndex;
-    
-    $.getJSON("optiondata.py?pnum="+optionnum,function(data) {
-	
+    var optionnum=$("#sel-list")[0].selectedIndex;
+    console.log("DRAW"+optionnum)
+    $.ajax({dataType:"json",url:"optiondata.py?pnum="+optionnum,mimeType:"text/plain",success:function(data) {
+	console.log(data)
 	var xofset=50;
 	var yofset=50;
     
@@ -58,7 +59,7 @@ function draw() {
 		textInPlace(names[i],coords[i][j]+xofset+10,coords[i][j+1]+yofset+10,context);
 	    }
 	}
-    });
+    }});
     
 }
 function textInPlace(name,xstart,ystart,context) {

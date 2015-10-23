@@ -46,7 +46,7 @@ if validcook:
     ty=g.Users
     userCourses=list(ty.find_one({"email":curemail})["courses"])
     allCourses+=(list(c.find({"_id":{"$in":userCourses}})))#also append the user's chosen courses
-    sorted(allCourses,key=lambda k: k["Name"])
+    allCourses=sorted(allCourses,key=lambda k: k["Name"])
     
     #Before we print courses, print a list of selectable tags
     #sorted(taglist)
@@ -54,26 +54,29 @@ if validcook:
     #print(taglist)
     print("""
 <b>Specify your course choices with course tags</b>
-<form action=selectcourses.py method="GET">
+<div class="container jumbotron">
+<form action=selectcourses.py method="GET" id="tags">
 """)
     ind=0
+    lasti=taglist[0]
     for i in taglist:
-        if ind%5==0:print("<br/>")
+        if i[0]!=lasti[0]:print("<br>")
         if i in tag:
             print("""<input type="checkbox" name="tag" value=%s checked>%s"""%(i,i))
         else:
             print("""<input type="checkbox" name="tag" value=%s>%s"""%(i,i))
         ind+=1
+        lasti=i
     if srchseas=="fall":
-        print("""<br/><input type="radio" name="season" value=fall checked>fall
+        print("""<br><input type="radio" name="season" value=fall checked>fall
 <input type="radio" name="season" value=winter>winter
 """)
     else:
-        print("""<br/><input type="radio" name="season" value=fall>fall
+        print("""<br><input type="radio" name="season" value=fall>fall
 <input type="radio" name="season" value=winter checked>winter
 """)
     print("""<br/><input type="submit" value="Confirm">""")
-    print("</form>")
+    print("</form></div>")
     selected=[]
     name=[]
     
@@ -111,8 +114,10 @@ if validcook:
             #    dy.append(" ")
         day.append(dy)
     print ("""
+<script src="jquery-1.10.2.js"></script>
+<script src="displaychosen.js"></script>
 <form action="enlistcourse.py">
-<table>
+<table class="table" id="tablein">
 <tr>
 <th>Selected</th>
 <th>Name</th>
@@ -122,7 +127,12 @@ if validcook:
 <th>Days</th>
 <th>Season</th>
 </tr>
+
 """) #changed description to season
+
+#######################################################
+
+    
     curind=0
     for i in range(len(allCourses)):
         checked=False##not sure if i should format as int or string
@@ -139,13 +149,20 @@ if validcook:
         print ("""<td>%s</td>"""%end_time[i])
         print ("""<td align="left">%s %s %s %s %s</td>"""%(day[i][0],day[i][1],day[i][2],day[i][3],day[i][4]))
         print ("""<td id=seas%d>%s</td>"""%(_id[i],season[i])) #give season its own ID
+
+################################################################
+
+
+
+
     print("""
+
 </table>
 <input type="submit" id="choose" value="Choose Courses">
 </form>
 """)
     #print add course part
-    print("""
+    """
 <b>Add Course</b>
 <form action="addcourse.py">
 <table>
@@ -165,7 +182,10 @@ if validcook:
 </tr>
 </table>
 <input type="submit" value="Add Course" id="addcourse" disabled>
-</form>
+</form>"""
+
+    print("""
+
 <p id="feedback"></p>
 <script type="text/javascript" src="jquery-1.10.2.js">
 </script>

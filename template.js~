@@ -1,0 +1,7 @@
+$(document).ready(function() {
+    //$("#refresh").hide();
+    $(".eventlogs").load("logs/%s.txt");
+    $("#refresh").click(function() {
+        $(".eventlogs").load("logs/%s.txt");
+    });
+});

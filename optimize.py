@@ -66,7 +66,7 @@ while True:
                 mp[d].append(i)
             else:
                 mp[d]=[i]
-        print(d+" is with "+str(mp))
+        #print(d+" is with "+str(mp))
         dat=list(mp.values()) #all the time info and stuff???
         choi=recursedat(dat,0,[],[],co)
         be.update({"_id":usid},{"_id":usid,"select":choi})

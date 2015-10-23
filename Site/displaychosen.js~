@@ -1,0 +1,3 @@
+
+function display() {
+     $.ajax({dataType:"json",url:"getchosen.py?pnum="+optionnum,mimeType:"text/plain",success:function(data) {
