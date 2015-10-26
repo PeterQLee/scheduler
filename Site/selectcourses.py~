@@ -33,12 +33,47 @@ if validcook:
     template.printTemplatept1(curemail)
     #query database for all courses+ user's selcted 
     allCourses=[]
-   
+    tag=form.getlist("tag")
+    srchseas=form.getlist("season")
+    if len(srchseas)!=1:srchseas="fall"
+    elif srchseas[0]!="fall" and srchseas[0]!="winter": srchseas="fall"
+    else:srchseas=srchseas[0]
     c=g.Courses
-    allCourses=list(c.find())
+    #taglist=[]
+
+    allCourses=list(c.find({"tag":{"$in":tag},"season":srchseas})) ##restrict to catagories
+    taglist=c.distinct("tag")
     ty=g.Users
     userCourses=list(ty.find_one({"email":curemail})["courses"])
+    allCourses+=(list(c.find({"_id":{"$in":userCourses}})))#also append the user's chosen courses
+    sorted(allCourses,key=lambda k: k["Name"])
     
+    #Before we print courses, print a list of selectable tags
+    #sorted(taglist)
+    taglist.sort()
+    #print(taglist)
+    print("""
+<b>Specify your course choices with course tags</b>
+<form action=selectcourses.py method="GET">
+""")
+    ind=0
+    for i in taglist:
+        if ind%5==0:print("<br/>")
+        if i in tag:
+            print("""<input type="checkbox" name="tag" value=%s checked>%s"""%(i,i))
+        else:
+            print("""<input type="checkbox" name="tag" value=%s>%s"""%(i,i))
+        ind+=1
+    if srchseas=="fall":
+        print("""<br/><input type="radio" name="season" value=fall checked>fall
+<input type="radio" name="season" value=winter>winter
+""")
+    else:
+        print("""<br/><input type="radio" name="season" value=fall>fall
+<input type="radio" name="season" value=winter checked>winter
+""")
+    print("""<br/><input type="submit" value="Confirm">""")
+    print("</form>")
     selected=[]
     name=[]
     
@@ -62,15 +97,15 @@ if validcook:
         
         dy=["","","","",""]
         for j in allCourses[i]["day"]:
-            if j=="Monday":
+            if j=="M": ##change to letter
                 dy[0]="M&nbsp;"
-            elif j=="Tuesday":
+            elif j=="T":
                 dy[1]="T&nbsp;"
-            elif j=="Wednesday":
+            elif j=="W":
                 dy[2]="W&nbsp;"
-            elif j=="Thursday":
+            elif j=="R":
                 dy[3]="R&nbsp;"
-            elif j=="Friday":
+            elif j=="F":
                 dy[4]="F"
             #else:
             #    dy.append(" ")
@@ -103,7 +138,7 @@ if validcook:
         print ("""<td>%s</td>"""%start_time[i])
         print ("""<td>%s</td>"""%end_time[i])
         print ("""<td align="left">%s %s %s %s %s</td>"""%(day[i][0],day[i][1],day[i][2],day[i][3],day[i][4]))
-        print ("""<td>%s</td>"""%season[i])
+        print ("""<td id=seas%d>%s</td>"""%(_id[i],season[i])) #give season its own ID
     print("""
 </table>
 <input type="submit" id="choose" value="Choose Courses">

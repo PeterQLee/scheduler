@@ -1,0 +1,27 @@
+import json
+import cgi
+import http.cookies as Cookies
+import sys
+import os
+from pymongo import MongoClient
+sys.path.insert(0,"/home/peter/SchedulerProject/")
+
+
+form=cgi.FieldStorage()
+import checkcookie
+import redirect
+import template
+cook=Cookies.SimpleCookie()
+
+print ("Content-Type:text/plain")
+validcook=False
+d=0
+if os.environ.get("HTTP_COOKIE"):
+    cook.load(os.environ["HTTP_COOKIE"])
+    u=checkcookie.checkcookie(cook["session"].value)
+    d=cook["session"].value
+    #if not u:
+        #validcook=False
+    validcook=u
+if validcook:
+    

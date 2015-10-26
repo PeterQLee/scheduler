@@ -16,7 +16,7 @@ import redirect
 import template
 cook=Cookies.SimpleCookie()
 
-print ("Content-Type:text/html")
+print ("Content-Type:text/plain\n")
 validcook=False
 d=0
 if os.environ.get("HTTP_COOKIE"):
@@ -27,7 +27,7 @@ if os.environ.get("HTTP_COOKIE"):
         #validcook=False
     validcook=u
 if validcook:
-   
+    
     m=MongoClient()
     g=m.unisq
     k=g.Users
@@ -35,11 +35,19 @@ if validcook:
     cs=g.Courses
     cg=g.Choices
     curemail=db.find_one({"_id":int(d)})["email"]
-    template.printTemplatept1(curemail)
-    p=form.get("pnum") #getfirst
+    #print("Content-type:text/plain\n\n")
+    #template.printTemplatept1(curemail)
+    p=form.getfirst("pnum") #getfirst
     userid=k.find_one({"email":curemail})["_id"]
-    if len(p)==1 and isinstance(p,int):
-        currcourseid=cg.find_one({"_id":int(mn)})["select"]
+    n=cg.find_one({"_id":int(userid)})["select"]
+    no=False
+    try:
+        int(p)
+    except:
+        no=True
+    if len(p)>=1 and not no: #len(p)<=1
+        
+        currcourseid=cg.find_one({"_id":int(userid)})["select"] #mn
         if int(p)<len(n) or int(p)>=0: #check to make sure it is in range
             cur=currcourseid[int(p)]
         #get start/end times
