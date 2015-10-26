@@ -36,66 +36,39 @@ if validcook:
     cg=g.Choices
     curemail=db.find_one({"_id":int(d)})["email"]
     template.printTemplatept1(curemail)
-    p=form.getfirst("pnum")
+    
     mn=k.find_one({"email":curemail})["_id"]
     print ("</br></br></br>")
     
-    if not p:
-        n=cg.find_one({"_id":int(mn)})["select"]
-        print ("<ol>")
-        for i in range(len(n)):
-            print ("""<li><a href="viewoption.py?pnum=%d">Option %d</a></li>"""%(i,i+1))
+    
+    n=cg.find_one({"_id":int(mn)})["select"]
+    print("""
+    <select class="form-control" id="sel-list">
+    """)
+      
+      
+      
+    
+    for i in range(len(n)):
+        print ("""<option>Option %d</option>"""%(i+1))
+    print("</select>")
 
-        print ("</ol>")
-        print ("""</br>
+    print ("""</br>
 <b>If your selections are not here, try refreshing the page after several seconds. It is also possible that there are no possible schedule options with your current course selections</b>""")
 
-    else:
-        print ("""<a href="viewoption.py">Back to Options</a>
-</br>""")
-        n=cg.find_one({"_id":int(mn)})["select"]
-        if int(p)>len(n) or int(p)<0:
-            print ("<b>Index out of range!</b>")
-        else:
-            cur=n[int(p)]
-        #get start/end times
-            times=[]
-            ky={"M":0,"T":1,"W":2,"R":3,"F":4}
-            for b in cur: #b=courseid
-            #kyxy=[]
-                nm=cs.find_one({"_id":b})["Name"]
-                kyxy=[b,nm]
-                st=int(cs.find_one({"_id":b})["start_time"])
-                ed=int(cs.find_one({"_id":b})["end_time"])
-                dy=cs.find_one({"_id":b})["day"]
-                for k in dy:
-                    kyxy.append(ky[k]*2400+st)
-                    kyxy.append(ky[k]*2400+ed)
-                    times.append(kyxy)
-                    dat=json.dumps(times)
-        #throw this data into js
-        
-            print ("""
+            
+    print ("""
 <script type="text/javascript" src="jquery-1.10.2.js">
 </script>
 <script type="text/javascript" src="drawoption.js">
 </script>""") ##CHANGE THIS MOFO
-            print ("""
-<script type="text/javascript">
-var data=%s
-$(draw)
-</script>
-"""%dat)
-            print("""
+    
+    print("""
 <canvas id="calapp" width=550 height=1500>
 </canvas>
 </br>
-""")
-            if int(p)>0:
-                print("""<a href="viewoption.py?pnum=%d" align=left>Back</a>"""%(int(p)-1))
-            if int(p)<len(n)-1:
-            
-                print("""<a href="viewoption.py?pnum=%d" align=right>Next</a>"""%(int(p)+1))
+""") #scale diagram to height of window
+    
     template.printTemplatept2()
 
 else:
