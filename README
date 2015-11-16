@@ -1,0 +1,35 @@
+This project is divided into two section, the server code, and the parser code
+
+Requires: MongoDB, python3, cgi-enabled webserver
+
+####################################################################
+Dir: Server/
+Point the webserver to serve files in Server/Site/. Be sure permissions are applied to appropriate files in that folder. Also make write/read permissions are appplied to Server/queue.txt, as it is essential for responding to user input.
+
+When you are serving data, you should also run optimize.py to enable choice selections available for the user.
+
+All course data, user data, session data, is stored in the mongo database, so it should be initialized before running.
+
+###########################################################################
+Dir:/Parser
+Stores the code for parsing data from the dal website.
+Run the files in this order
+sift.py/
+	Goes on Dal's course manifest and extracts(hopefully) all the urls to other courses from there to urs.txt, given the course names, cnames.txt
+
+curlpages.py/
+	Goes through the list of url's in urs.txt
+	writes all of them in the directory htwpages/
+
+processlinks.c/
+	mainfile for processing and putting the data in the textfile
+	outputs data to courseresult.txt
+
+/*parsefiles.c/
+	helper file for main*/
+
+(you can compile the c program with the makefile provided)
+
+
+parsedata.py/
+	parses data from courseresult.txt and adds them to the mongo DB for use from website.

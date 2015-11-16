@@ -1,0 +1,10 @@
+from pymongo import MongoClient
+
+M=MongoClient()
+
+g=M.unisq
+
+g.Choices.drop()
+g.Courses.drop()
+g.Session.drop()
+g.Users.drop()

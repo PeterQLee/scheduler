@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>University Scheduler</title>
+	<link rel="stylesheet" href="SchedulerStyle.css">
+</head>
+
+<body>
+<!-- random stuff and links-->
+<p align="right">Currently logged in as: bishopgreg30@yahoo.ca</p>
+<ul id="Menu">
+<li><a href="#">Home</a></li>
+<li><a href="#">Select Courses</a></li>
+<li><a href="#">Logout</a></li>
+<li><a href="#">Help</a></li>
+</ul>
+<br><br>
+
+
+
+<form action="enlistcourse.py">
+<table border = "1">
+<tr>
+<th>Selected</th>
+<th>Name</th>
+<th>ID</th>
+<th>Start-Time</th>
+<th>End-Time</th>
+<th>Days</th>
+<th>Description</th>
+</tr>
+
+<tr><td><input type="checkbox" name=1 id=1
+checked
+></td>
+<td>TEST</td>
+<td>1</td>
+<td>0100</td>
+<td>0200</td>
+<td align="left">M&nbsp;    </td>
+<td>YOMAMA</td>
+<tr><td><input type="checkbox" name=2 id=2
+checked
+></td>
+<td>Jub</td>
+<td>2</td>
+<td>2351</td>
+<td>2400</td>
+<td align="left">  W&nbsp;  </td>
+<td>fdg</td>
+<tr><td><input type="checkbox" name=3 id=3
+checked
+></td>
+<td>efaioej</td>
+<td>3</td>
+<td>2300</td>
+<td>2334</td>
+<td align="left">M&nbsp; T&nbsp; W&nbsp; R&nbsp; F</td>
+<td>dd</td>
+<tr><td><input type="checkbox" name=4 id=4
+checked
+></td>
+<td>ea</td>
+<td>4</td>
+<td>2333</td>
+<td>2334</td>
+<td align="left">  W&nbsp;  </td>
+<td>None</td>
+</table>
+<input type="submit" id="choose" value="Choose Courses">
+</form>
+
+
+<p>Add Course</p>
+<form action="addcourse.py">
+<table>
+<tr>
+<th>Name</th>
+<th>Start-Time</th>
+<th>End-Time</th>
+<th>Days<br>M T W R F</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><input type="text" name="cname" id="cname"></td>
+<td><input type="text" id="start_time" name="start_time"></td>
+<td><input type="text" id="end_time" name="end_time"></td>
+<td><input type="checkbox" name="M" id="M"><input type="checkbox" name="T" id="T"><input type="checkbox" name="W" id="W"><input type="checkbox" name="R" id="R"><input type="checkbox" name="F" id="F"></td>
+<td><input type="checkbox" id="season" name="desc" rows=5 cols=20></textarea></td>
+</tr>
+</table>
+<input type="submit" value="Add Course" id="addcourse" disabled>
+</form>
+<p id="feedback"></p>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js">
+</script>
+<script type="text/javascript" src="./courseselect.js">
+</script>
+<p> MAKE SURE AT LEAST ONE DAY OF WEEK IS SELECTED</p>
+
+
+</body>
+</html>
+

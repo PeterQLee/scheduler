@@ -1,0 +1,39 @@
+
+##Prints Headers and links for every page
+def printTemplatept1(email):
+        print ("""
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>University Scheduler</title>
+<link rel="stylesheet" href="SchedulerStyle.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="bootstrap-3.3.4-dist/css/bootstrap.css">
+</head>
+
+<body>
+<!-- random stuff and links-->
+<div class="Menubar">
+<ul class="nav nav-pills" role="tablist">
+<li><a href="index.py">Home</a></li>
+<li><a href="selectcourses.py">Select Courses</a></li>
+<li><a href="calander.py">Make your schedule</a></li>
+<li><a href="viewoption.py">Selection Options</a></li>
+<li><a href="logout.py">Logout</a></li>
+<li><a href="help.html">Help</a></li>
+<p align="right">Currently logged in as: %s</p>
+</ul>
+</div>
+</br>
+</br>
+</br>
+</br>
+
+"""%email)
+def printTemplatept2():
+        print ("""
+</body>
+</html>""")
+    
+
