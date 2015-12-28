@@ -49,7 +49,7 @@ while True:
             buf=f.readline()
             continue
         usid=int(buf)
-        
+        print(usid)
         
         clist=us.find_one({"_id":usid}) #looks up DB entry for user and their desired courses
         if clist:
