@@ -1,6 +1,8 @@
 #include "parsefiles.h"
 //#include <regex.h>
 
+//REDO THIS FILE!!!!
+
 //Order is :
 //Title      0 X
 //Season/time period  1
@@ -34,14 +36,14 @@ int isBoth(char one, char two) {
   return 1;
 }
 char *parsedResult(char *intext,int *Tot) {
-  regex_t r,sp,crs,idreg,notreg;
+  regex_t regular_text_r,Wspace_r,course_r,id_r,note_r;
 
   //regex strings
 
   //make regexes in slave function
   const char *regtext=">[^>]+<";    //">\s*(?=.*[\S])([^>]+?)\s*<";
-  const char *spact=">[ \n\r\t]+<";
-  const char *crdtext=">[0-9][0-9][0-9][0-9][0-9]<"; //redit number(check this)
+  const char *spacetext=">[ \n\r\t]+<";
+  const char *idtext=">[0-9][0-9][0-9][0-9][0-9]<"; //redit number(check this)
   const char *coursenametxt=">[A-Z][A-Z][A-Z][A-Z] [0-9][0-9][0-9][0-9]";
   const char *notetext=">[A-Z][A-Z][A-Z][A-Z] [0-9][0-9][0-9][0-9]X [A-Z][A-Z]";
   //  const char *
@@ -49,33 +51,35 @@ char *parsedResult(char *intext,int *Tot) {
   // const char *notetxt=">[A-Z]+";
   
   
-  
-  int status=regcomp(&r,regtext,REG_EXTENDED);
+  int status=regcomp(&regular_text_r,regtext,REG_EXTENDED);
   const char *p=intext;
   if (status) {
     char *reg_error=malloc(400);
     printf("PICNIC IN REGEX COMPILE!!\n");
-    regerror(status,&r,reg_error,400);
+    regerror(status,&regular_text_r,reg_error,400);
     printf("ERROR: %s : %s\n",regtext,reg_error);
   }
   const int n_matches=15;//some arbitrary number, should be big                                                                                                                    
   regmatch_t m[n_matches];
   regmatch_t g[n_matches];
   regmatch_t h[n_matches];
+
   char * finresult=calloc(20000,sizeof(char)); //allocate space
-  status=regcomp(&sp,spact,REG_EXTENDED);
+
+  //compile regexes
+  status=regcomp(&Wspace_r,spacetext,REG_EXTENDED);
   if (status) {
     printf("PICNIC SPACES");
   }
-  status=regcomp(&crs,coursenametxt,REG_EXTENDED);
+  status=regcomp(&course_r,coursenametxt,REG_EXTENDED);
   if (status) {
     printf("PICNIC SPACES");
   }
-  status=regcomp(&idreg,crdtext,REG_EXTENDED);
+  status=regcomp(&id_r,idtext,REG_EXTENDED);
   if (status) {
     printf("PICNIC SPACES");
   }
-  status=regcomp(&notreg,notetext,REG_EXTENDED);
+  status=regcomp(&note_r,notetext,REG_EXTENDED);
   if (status) {
     printf("PICNIC SPACES");
   }
@@ -89,7 +93,7 @@ char *parsedResult(char *intext,int *Tot) {
     
     int offset=0;
 
-    int nomatch=regexec(&r,p,n_matches,m,0); //problem here
+    int nomatch=regexec(&regular_text_r,p,n_matches,m,0); //problem here
     if (nomatch) {
       break;
       //return stuff                                                                                                                                                               
@@ -99,29 +103,38 @@ char *parsedResult(char *intext,int *Tot) {
     //if (i==0|| 2|| 3|| 4|| 5|| 8|| 9|| 10|| 13 ){
     start=m[0].rm_so + (p - intext);
     finish = m[0].rm_eo +(p-intext);
-    char * inb=calloc((finish-start+1),sizeof(char));
-    memcpy(inb,intext+start,(finish-start)*sizeof(char));
+    char * buf=calloc((finish-start+1),sizeof(char));
+    memcpy(buf,intext+start,(finish-start)*sizeof(char));
     
-    nomatch=regexec(&sp,inb,n_matches,g,0);
+    nomatch=regexec(&Wspace_r,buf,n_matches,g,0);
     
     if (nomatch) {
-      nomatch=regexec(&crs,inb,n_matches,g,0);
-      int bmatch=regexec(&notreg,inb,n_matches,g,0);
-      if (!nomatch&&bmatch) {  //check for a change in course
+      //No whitespace in the buffer
+      
+      nomatch=regexec(&course_r,buf,n_matches,g,0);
+      int bmatch=regexec(&note_r,buf,n_matches,g,0);
+
+      if (!nomatch&&bmatch) {  
+	//New course entry (And is not a note exception (e.x., theatre))
+
 	i=0;
-	//free(courseName);
+
 	char *tmp=realloc(courseName,sizeof(char)*(finish-start-1));
 	if (tmp==NULL){
-	  printf("WASSUPFNADFA\n");
+	  printf("Fatal allocation error\n");
 	}
 	courseName=tmp;
 	courseName[finish-start-2]='\0';
 	memcpy(courseName,intext+start+1,(finish-start-2)*sizeof(char)); //check for overflow HERE
 	courseSize=finish-start-2;
 	*Tot=*Tot+1;
+	//continue??
       }
-      nomatch=regexec(&idreg,inb,n_matches,h,0);
-      if (!nomatch) {
+
+      nomatch=regexec(&id_r,buf,n_matches,h,0);
+      if (!nomatch) { //matched credit pattern.
+
+	//Copy credit hours
 	i=6;
 	memcpy(finresult+ind,courseName,(courseSize)*sizeof(char)); //here
 	ind+=courseSize+1;
@@ -129,18 +142,17 @@ char *parsedResult(char *intext,int *Tot) {
       }
 	      
       if ( i==6 ||i==8||i==7|| i==11 || i==12 || i==13 || i==14 || i==15||i==16||i==20) {
-	if (i==11&&!strcmp(inb,">C/D<")) {
+	if (i==11&&!strcmp(buf,">C/D<")) {
+	  //exception edge case...
+
+	  //skip possible empty fields
 	    i=16;
 	}
-	
 	  
 	memcpy(finresult+ind,intext+start+1,(finish-start-2)*sizeof(char));
 	ind+=finish-start-2+1;
-       finresult[ind-1]=(char)255; //seperater
+	finresult[ind-1]=(char)255; //seperater
        
-       
-
-
       }
       //printf("%.*s %d\n",finish-start, intext+start,i);
  
@@ -152,17 +164,16 @@ char *parsedResult(char *intext,int *Tot) {
       i++;
     }
 
-    //}
     p+=m[0].rm_eo+offset;
-    
-    
-    free(inb);
+        
+    free(buf);
   }
   //maybe have a compile function, and then free when all the transfers are actually done
   free(courseName);
-  regfree(&r);
-  regfree(&sp);
-  regfree(&idreg);
+  regfree(&regular_text_r);
+  regfree(&Wspace_r);
+  regfree(&id_r);
+  regfree(&note_r);
   return finresult;
 }
 

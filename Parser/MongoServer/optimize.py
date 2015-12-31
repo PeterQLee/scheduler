@@ -38,11 +38,11 @@ while True:
     f=open("queue.txt","r")
     #checks users who need options sorted
     m=MongoClient()
-    g=m.unisq
-    us=g.Users
-    co=g.Courses
-    be=g.Choices
-    buf=f.readline()
+    collection=m.unisq
+    users=collection.Users
+    courses=collection.Courses
+    choices=collection.Choices
+    buf=f.readline() #replace..
     used=[]
     while buf!="":
         if buf in used: #makes sure user hasn't already been searched this session
@@ -51,7 +51,7 @@ while True:
         usid=int(buf)
         
         
-        clist=us.find_one({"_id":usid}) #looks up DB entry for user and their desired courses
+        clist=users.find_one({"_id":usid}) #looks up DB entry for user and their desired courses
         if clist:
             clist=clist["courses"] #here include season e.g clist["wintercourses"]
         else:
@@ -61,15 +61,15 @@ while True:
         mp={}
         
         for i in clist:
-            d=co.find_one({"_id":i})["Name"]
+            d=courses.find_one({"_id":i})["Name"]
             if mp.get(d):
                 mp[d].append(i)
             else:
                 mp[d]=[i]
         #print(d+" is with "+str(mp))
-        dat=list(mp.values()) #all the time info and stuff???
-        choi=recursedat(dat,0,[],[],co)
-        be.update({"_id":usid},{"_id":usid,"select":choi})
+        c_ids=list(mp.values()) #all the time info and stuff???
+        choi=recursedat(c_ids,0,[],[],courses)
+        choices.update({"_id":usid},{"_id":usid,"select":choi})
         buf=f.readline()
         used.append(buf)
     f.close() #wip file contents
