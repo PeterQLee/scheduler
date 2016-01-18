@@ -10,6 +10,7 @@ sys.path.insert(0,os.getcwd()+"../tools")
 from DatabaseConnection import DatabaseConnection
 import redirect
 import template
+import send_generator
 
 form=cgi.FieldStorage()
 
@@ -29,10 +30,6 @@ if os.environ.get("HTTP_COOKIE"): #check login
     if not u:
         validcook=False
 if validcook:
-    
-    #m=MongoClient()
-    #g=m.unisq
-    #ses=g.Session
     
     usemail=DB_conn.find_session({"_id":int(d)})["email"]
     
@@ -64,10 +61,15 @@ if validcook:
     DB_conn.update_user({"email":usemail},{"email":usemail,"_id":d,"pass":n,"courses":uselist})
     #db.update({"email":usemail},{"email":usemail,"_id":d,"pass":n,"courses":uselist})
     
-    f=open("../queue.txt","a")
-    f.write(str(d)+"\n")
-    print ("""
+    result=send_generator.send_generator(d)
+    if result:
+        print ("""
 <p>Courses Added successfully!</p>
+<p>Click <a href="index.py">here</a> to go back to index</p>
+""")
+    else:
+        print("""
+<p> Due to an unknown error, your schedule possibilities were unable to be generated. Contact the system admin.</p>
 <p>Click <a href="index.py">here</a> to go back to index</p>
 """)
     template.printTemplatept2()

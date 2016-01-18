@@ -2,3 +2,6 @@
 
 ip="127.0.0.1"
 port=27017
+
+opt_port=6010
+mes_len=8
