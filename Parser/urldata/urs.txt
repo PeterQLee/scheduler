@@ -1,14 +1,17 @@
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ACSC&s_district=100:Actuarial_Science
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ANAT&s_district=100:Anatomy
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ARTC&s_district=100:Applied_Hlth_Services_Research
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ARBC&s_district=100:Arabic
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ARCH&s_district=100:Architecture
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ASSC&s_district=100:Arts_&_Social_Sciences
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOC&s_district=100:Biochem_&_Molecular_Biology
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOT&s_district=100:Bioethics
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOE&s_district=100:Biological_Engineering
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOL&s_district=100:Biology
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BMNG&s_district=100:Biomedical_Engineering
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=BUSI&s_district=100:Business_Admin
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CANA&s_district=100:Canadian_Studies
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CNLT&s_district=100:Centre_for_Learning_&_Teaching
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CHEE&s_district=100:Chemical_Engineering
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CHEM&s_district=100:Chemistry
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CHIN&s_district=100:Chinese
@@ -20,7 +23,6 @@ https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CP
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CSCI&s_district=100:Computer_Science
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CTMP&s_district=100:Contemporary_Studies
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=CRWR&s_district=100:Creative_Writing
-https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=DEHY&s_district=100:Dental_Hygiene
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=DENT&s_district=100:Dentistry
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=DMUT&s_district=100:Diag_Med_Ultrasound_Tech
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=DCYT&s_district=100:Diagnostic_Cytology
@@ -38,6 +40,7 @@ https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=EN
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ENVS&s_district=100:Environmental_Science
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=ENVI&s_district=100:Environmental_Studies
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=EURO&s_district=100:European_Studies
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=FILM&s_district=100:Film_Studies
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=FOSC&s_district=100:Food_Science
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=FREN&s_district=100:French
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=GWST&s_district=100:Gender_&_Womens_Studies
@@ -45,6 +48,7 @@ https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=GE
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=GERM&s_district=100:German
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HESA&s_district=100:Health_Administration
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HINF&s_district=100:Health_Informatics
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HLTH&s_district=100:Health_Professions
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HPRO&s_district=100:Health_Promotion
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HSCE&s_district=100:Health_Sciences_Education
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=HAHP&s_district=100:Health_and_Human_Performance
@@ -70,6 +74,7 @@ https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MA
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MATH&s_district=100:Mathematics
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MECH&s_district=100:Mechanical_Engineering
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MDLT&s_district=100:Medical_Lab_Technology
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MEDP&s_district=100:Medical_Physics
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MEDS&s_district=100:Medical_Sciences
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MICI&s_district=100:Microbiology_&_Immunology
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=MINE&s_district=100:Mineral_Resource_Engineering
@@ -83,15 +88,14 @@ https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=OR
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHDP&s_district=100:PHD_Program
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PATH&s_district=100:Pathology
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PERI&s_district=100:Periodontics
-https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PETR&s_district=100:Petroleum_Engineering
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHAC&s_district=100:Pharmacology
+https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHAR&s_district=100:Pharmacy
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHIL&s_district=100:Philosophy
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHYC&s_district=100:Physics_&_Atmospheric_Science
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHYL&s_district=100:Physiology
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PHYT&s_district=100:Physiotherapy
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PLAN&s_district=100:Planning
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=POLI&s_district=100:Political_Science
-https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PORT&s_district=100:Portuguese
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PGPH&s_district=100:Post-Graduate_Pharmacy
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PEAS&s_district=100:Process_Engineering_&_App_Scie
 https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=201620&s_subj=PROS&s_district=100:Prosthodontics
