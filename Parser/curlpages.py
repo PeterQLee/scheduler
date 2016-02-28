@@ -7,8 +7,8 @@ DIRECTORY="urldata/"
 
 def srch(st):
     #extract the name from the html doc
-    start=re.findall(r"\"detthdr\".*</TD>\s+</TD>",st,re.DOTALL)
-
+    #start=re.findall(r"\"detthdr\".*</TD>\s+</TD>",st,re.DOTALL)
+    start=re.findall(r"\"detthdr\".*</TD>.*</TD>",st,re.DOTALL)
     ret=""
     for i in start:
         ret=i

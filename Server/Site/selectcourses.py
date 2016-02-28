@@ -7,8 +7,8 @@ import sys
 import os
 #from pymongo import MongoClient
 #sys.path.insert(0,"/home/peter/SchedulerProject/")
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 
@@ -51,7 +51,7 @@ if validcook:
     #taglist=[]
 
     allCourses=list(DB_conn.find_course({"tag":{"$in":tag},"season":srchseas})) ##restrict to catagories
-    taglist=c.distinct("tag")
+    taglist=DB_conn.distinct_course("tag") #badform 
 
     #ty=g.Users
 

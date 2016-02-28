@@ -1,7 +1,7 @@
 import re
 import urllib.request
 import time
-
+import sys
 class CompilePages:
     def __init__(self,location,term):
         self.DIRECTORY="urldata/"
@@ -127,8 +127,8 @@ class CompilePages:
     """
      
 
-        
-c=CompilePages("halifax","winter")
+print(sys.argv)        
+c=CompilePages("halifax",sys.argv[1])
 c.findLinks()
 c.compileLinks()
 c.curlpages()

@@ -14,9 +14,9 @@ courseseason=sys.argv[1]
 #cleanse db
 co.remove({"season":courseseason})
 
-f=open("/mirror/mpiu/courseresult.txt","rb")
+f=open("/mirror/mpiu/scheduler/Parser/courseresult.txt","rb")
 buf=f.read()
-print(buf)
+
 buf=str(buf)
 kei=("Name","_id","days","avail")
 ind=0
@@ -25,7 +25,7 @@ dic={}
 nentry=""
 entry=""
 G=buf.split("\\xff")
-print(G)
+
 ind =0
 i=""
 dic["Name"]=""

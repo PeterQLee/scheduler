@@ -7,8 +7,8 @@ import http.cookies as Cookies
 import sys
 import os
 
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 

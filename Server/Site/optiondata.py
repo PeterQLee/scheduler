@@ -8,8 +8,8 @@ import os
 import json
 #from pymongo import MongoClient
 #sys.path.insert(0,"/home/peter/SchedulerProject/")
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 

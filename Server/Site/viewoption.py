@@ -9,8 +9,8 @@ import os
 import json
 #from pymongo import MongoClient
 
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 
@@ -51,7 +51,7 @@ if validcook:
     mn=DB_conn.find_user({"email":curemail})["_id"]
     print ("</br></br></br>")
     
-    
+       
     n=DB_conn.find_one_choice({"_id":int(mn)})["select"]
     print("""
     <select class="form-control" id="sel-list">
@@ -69,9 +69,9 @@ if validcook:
 
             
     print ("""
-<script type="text/javascript" src="jquery-1.10.2.js">
+<script type="text/javascript" src="js/jquery-1.10.2.js">
 </script>
-<script type="text/javascript" src="drawoption.js">
+<script type="text/javascript" src="js/drawoption.js">
 </script>""") ##CHANGE THIS MOFO
     
     print("""

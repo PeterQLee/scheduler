@@ -2,7 +2,7 @@ import socket
 import connectioninfo
 def send_generator(num):
     addr=connectioninfo.ip
-    port=connectioninfo.optport
+    port=connectioninfo.opt_port
     meslen=connectioninfo.mes_len
     try:
         s=socket.socket() #default socket used for comm

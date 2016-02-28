@@ -6,19 +6,19 @@ import html
 import http.cookies as Cookies
 import sys
 import os
-#from pymongo import MongoClient
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+
+sys.path.insert(0,os.getcwd()+"/../tools/")
+
+
+from MongoConnection import DatabaseConnection
 import redirect
 import template
-
-#sys.path.insert(0,"/home/peter/SchedulerProject/")
+import loginpage
 
 form=cgi.FieldStorage()
 
-#import checkcookie
-#import loginpage
-#import template
+import checkcookie
+import template
 
 cook=Cookies.SimpleCookie()
 
@@ -35,7 +35,7 @@ if os.environ.get("HTTP_COOKIE"):
     validcook=u
 if validcook:
 
-    use=DB_conn.find_user({"_id":int(d)})["email"]
+    use=DB_conn.find_session({"_id":int(d)})["email"]
     template.printTemplatept1(use)
     print ("""
 <h2 align="center">Welcome to University Scheduler!</h2>

@@ -19,7 +19,7 @@ class RequestServer:
         self.hostname='127.0.0.1'
         self.port=6010 #?
         #self.S_TYPE=socket.SOCKET_STREAM
-        self.banl={"127.0.0.1"} #TODO: configure to match all local hosts
+        self.banl={}#"127.0.0.1"} #TODO: configure to match all local hosts
         self.request_queue=deque()
         
         #try:

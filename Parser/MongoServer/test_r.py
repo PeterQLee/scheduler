@@ -1,8 +1,17 @@
 
 import socket
+import RequestServer
 
-s=socket.socket()
-s.connect(('127.0.0.1',6010))
 
-s.send(b'0')
 
+r=RequestServer.RequestServer()
+
+r.start()
+
+dat=int.to_bytes(5,3,'big')
+while (int.from_bytes(dat,"big")!=0):
+    print(dat)
+    dat=r.next_message()
+    
+r.stop()
+    

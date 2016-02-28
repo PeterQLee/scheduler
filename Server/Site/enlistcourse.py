@@ -6,8 +6,8 @@ import http.cookies as Cookies
 import sys
 import os
 #from pymongo import MongoClient
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 import send_generator
@@ -35,7 +35,7 @@ if validcook:
     
     template.printTemplatept1(usemail)
     
-    db=g.Users #check
+    #db=g.Users #check
     idlist=[]
     for i in form: 
         if i.isdigit():###redo

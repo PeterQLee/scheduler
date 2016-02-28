@@ -5,9 +5,11 @@
 import cgi
 import hashlib
 import re
+import sys
+import os
 
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 #import redirect
 #import template
 
@@ -27,9 +29,7 @@ rest="""<p><a href="index.py">Click Here</a> to go back</p>
 </body>
 </html>"""
 
-#m=MongoClient()
-#g=m["unisq"]
-#db=g["Users"]
+
 DB_conn=DatabaseConnection()
 if not email or not passw: 
     print (head)
@@ -37,26 +37,22 @@ if not email or not passw:
 <p>Invalid Request</p>
 """)
     print (rest)
-elif db.find_one({"email":email}): #check valid email
+elif DB_conn.find_user({"email":email}): #check valid email
     #badstuff,
     print (head)
     print ("<p>Email Already Taken:</p>")
     print (rest)
-elif not re.match (r"[^@]+@[^@]+\.[^@]+",email) or re.match(r"[<|>]",email): #make safe!
-    #invalid email
-    print (head)
-    print ("<p>Invalid Email</p>")
-    print (rest)  
+
 else:
     hashpsw=hashlib.sha256(passw.encode('utf-8')).hexdigest()
     ##might need to str hashpsw
-    idd=len(list(db.find()))+1
-    DB_conn.insert_user({"_id":idd,"email":email,"pass":hashpsw,"courses":[]})
+    idd=DB_conn.user_len()+1
+    DB_conn.insert_user({"_id":idd,"email":email,"pass":hashpsw,"courses":[],"custom_conflicts":[]})
 
     #gd=g.Choices
     
-    DB_conn.insert_course({"_id":idd,"select":[]})
-    #gd.insert({"_id":idd,"select":[]})
+    DB_conn.insert_choice({"_id":idd,"select":[]})
+
     
     #redirect
 

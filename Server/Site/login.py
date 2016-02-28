@@ -2,15 +2,17 @@
 #from pymongo import MongoClient
 import hashlib
 import cgi
+import sys
+import os
 import random
 import datetime
 import http.cookies as Cookies
 
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 
-#import redirect
-#import template
+import redirect
+import template
 
 print ("Content-type: text/html")
 

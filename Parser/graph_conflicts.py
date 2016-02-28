@@ -22,8 +22,7 @@ for i in buffer:
         #(nodes are indexed by CID)
 
     if ind==1:
-
-        #record csid
+      #record csid
         curid=int(i)
         identitymap[curid]=[]
         
@@ -35,7 +34,7 @@ for i in buffer:
             identitymap[curid].append((ind-4))
         
     if ind==9:
-        print(i)
+        
         try:
             (a,b)=i.split("-")
             for k in range(0,len(identitymap[curid]),2):
@@ -46,17 +45,32 @@ for i in buffer:
         except:
             del identitymap[curid]
             remain.remove(curid)
-                            
+            
     ind+=1
 
 def fingerwalk(mat1,mat2):
     cur=0
     lastneg=0
+    for i in range(0,len(mat2),2):
+        while abs(mat1[cur])<abs(mat2[i]):
+            cur+=1
+            if cur==len(mat1):return True
+            
+        if cur%2==1: return False #- is between - and +
+        
+        if abs(mat2[i+1]) >= abs(mat1[cur]): #compare +mat2 to -mat1 
+            return False#between the start of a slot in mat1
+    
+            
+    return True
+        
+        
+    """
     for i in mat2:
         #TODO: check bounds
         while abs(mat1[cur])<abs(i):
             cur+=1
-            if cur>=len(mat1):return True
+            if cur==len(mat1):return True
         
         if (i<0):
             lastneg=i
@@ -70,44 +84,43 @@ def fingerwalk(mat1,mat2):
             #check if last negativ is bigger
             if cur!=0 and abs(lastneg)<=mat1[cur-1]: #i.e.
                 return False
-                
+    """
     return True
-        
+
 
 def conflict(Graph,identities,remain,cur):
     if len(remain)==0: return
-    for i in remain:
-        print (i)
-        x1=identities[cur][0]
-        x2=identities[i][0]
-        y1=identities[cur][1]
-        y2=identities[i][1]
-
-        if not (fingerwalk(identities[cur],identities[i])):
-            Graph.add_edge(cur,i)
+    for curh in range(len(remain)):
         
-        # if (x1>=x2 and x1<=y2):
-        #     #conflcit!!!, create edge
-        #     #print ("conflict "+str(cur)+", "+str(i))
-        #     Graph.add_edge(cur,i)
-        #     continue
+        for h in range(curh+1,len(remain)):
             
-        # if (y1>=x2 and y1<=y2):
-        #     Graph.add_edge(cur,i)
-        #     continue
+            cur=remain[curh]
+            i=remain[h]
+            x1=identities[cur][0]
+            x2=identities[i][0]
+            y1=identities[cur][1]
+            y2=identities[i][1]
 
-        '''
-        if (x2>=x1 and x2<=y1):
-            pass
-        if (y2>=x1 and y2<=x1):
-            pass
-'''
-    conflict(Graph,identities,remain[1:],remain[0])
+            if not (fingerwalk(identities[cur],identities[i])):
+                Graph.add_edge(cur,i)
+
+             
+    #conflict(Graph,identities,remain[1:],remain[0])
         #create edge
-conflict(Graph,identitymap,remain[1:],remain[0])
+print (len(remain))
+conflict(Graph,identitymap,remain,remain[0])
 
 print("AYY")  
-for i in Graph.nodes():
-    print (str(i)+" "+str(Graph.neighbors(i)))
+dw=open("graph/indices.dat","w")
+#readd=open("graph/read.dat","w")
+#for i in Graph.nodes():
+#    dw.write (str(i)+":"+str(Graph.neighbors(i))+"\n")
+
+dw.write(str(Graph.nodes()))
+adj=networkx.to_numpy_matrix(Graph)
+print(str(adj))
+numpy.save("adj_matrix",adj)
+
+dw.close()
 #print (networkx.adjacency_matrix(Graph).to_numpy_matrix())
 

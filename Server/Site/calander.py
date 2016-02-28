@@ -9,8 +9,8 @@ import os
 import json
 #from StringIO import StringIO
 
-sys.path.insert(0,os.getcwd()+"../tools")
-from DatabaseConnection import DatabaseConnection
+sys.path.insert(0,os.getcwd()+"/../tools")
+from MongoConnection import DatabaseConnection
 import redirect
 import template
 
@@ -86,9 +86,9 @@ if validcook:
 """%(coursedata[i][0],coursedata[i][1]+" "+str(coursedata[i][0]),n["start_time"],n["end_time"],dy))
     print ("</ul>") ###src="http://code.jquery.com/jquery-1.7.1.min.js">
     print ("""
-<script type="text/javascript" src="jquery-1.10.2.js">
+<script type="text/javascript" src="js/jquery-1.10.2.js">
 </script>
-<script type="text/javascript" src="drawshiz.js">
+<script type="text/javascript" src="js/drawshiz.js">
 </script>""")
     print ("""
 <script type="text/javascript">

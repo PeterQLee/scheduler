@@ -2,6 +2,8 @@ from pymongo import MongoClient
 from time import sleep
 from copy import *
 import sys
+import numpy
+import traceback #TODO:temp
 
 #TEMPORARY
 sys.path.insert(0,"../../Server/tools")
@@ -39,7 +41,56 @@ def recursedat(data,ind,curarr,timedata,co): #set term season as a variable too.
             poslist+=recursedat(data,ind+1,n,t,co)
     return poslist
 
+    
+def find_possible(data,co,conflicts):
+    poss=[]
+    for k in data[0]:
+        poss.append([k])
+
+    for i in range(1,len(data)):
+        newposs=[]
+        for k in data[i]:
+            for j in poss:
+                print(poss,j,k)
+                if not conflicts.find_conflict(k,j):
+                    newposs.append(j+[k])
+
+        poss=newposs
+            
+    return poss
+                
+
+class Conflict:
+    def __init__(self):
+        self.mat=numpy.load("../adj_matrix.npy")
+        f=open("../graph/indices.dat","r")
+        dd=f.read()
+        buf=dd.split(",")
+        buf[0]=buf[0].replace("[","")
+        buf[len(buf)-1]=buf[len(buf)-1].replace("]","")
+       
+       
+        ind=0
+        self.indices_dict={}
+        for i in buf:
+            self.indices_dict[int(i)]=ind
+            ind+=1
+
+    def find_conflict(self,i,j_list):
+        #finds whether there is an existing conflict in the given lists
+        mat=self.mat
+        indic=self.indices_dict
+        for j in j_list:
+            print(indic[i],indic[j])
+            if mat[indic[i]][indic[j]]==1:
+                return True
+
+        return False
+
+    def exists(self,i):
+        return i in self.indices_dict
 #start server materials
+
 
 #TODO: server exceptions           
 rserver=RequestServer()
@@ -47,7 +98,12 @@ rserver.load_config("server.cnfg")
 rserver.start()
 
 DB=DatabaseConnection()#'localhost',6111)
-    
+
+
+#conflict data
+conflict=Conflict()    
+
+
 while True:
     ##f=open("queue.txt","r")
     #checks users who need options sorted
@@ -60,12 +116,15 @@ while True:
     print("start")
     #start 
     try:
-        usid=int(rserver.next_message()) #TODO: byte int conversion
+        usid=int.from_bytes(rserver.next_message(),"big") #TODO: byte int conversion
+        print(usid)
         if usid==0: 
             rserver.stop()
             break #TEMP
     except:
-        continue
+        print("FUCK")
+        traceback.print_exc()
+        break
         
     clist=DB.find_user({"_id":usid}) #looks up DB entry for user and their desired courses
     if clist:
@@ -75,19 +134,30 @@ while True:
         
     #time to organize these into name groups
     mp={}
+    
         
     for i in clist:
         d=DB.find_one_course({"_id":i})["Name"]#courses.find_one({"_id":i})["Name"]
         
-        #TODO:remove irrelevant code
-        if mp.get(d):
-            mp[d].append(i)
+        #make sure its an entry here
+        
+        if conflicts.exists(d):
+            if mp.get(d):
+                mp[d].append(i)
+            else:
+                mp[d]=[i]
         else:
-            mp[d]=[i]
-
-    c_ids=list(mp.values()) #all the time info and stuff???
-    choi=recursedat(c_ids,0,[],[],DB.cs)
-    DB.update_course({"_id":usid},{"_id":usid,"select":choi})
+            print("Error could not find ",d," for user ",usid)
+    
+    c_ids=list(mp.values()) 
+    #TODO: sort c_ids by length
+    
+    c_ids.sort(key=lambda x:len(x))
+    print("c_ids: ",c_ids)
+    choi=find_possible(c_ids,DB.cs,conflict)
+    
+    #choi=recursedat(c_ids,0,[],[],DB.cs) #old
+    DB.update_choice({"_id":usid},{"_id":usid,"select":choi}) #FUX
     #choices.update({"_id":usid},{"_id":usid,"select":choi})
     print (choi)
    
