@@ -1,0 +1,1384 @@
+"detthdr">
+<B>JOUR 0477 Journalism Internship</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+0477"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detti"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21333','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detti"><B>21333</B></TD>
+<TD CLASS="detti">01</TD>
+<TD CLASS="detti">Int</TD>
+<TD CLASS="detti">0</TD>
+<TD CLASS="detti">&nbsp;</TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP>C/D</TD>
+<TD CLASS="detti"NOWRAP> C/D</TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">45</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">45</p></TD>
+<TD CLASS="detti"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detti"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detti">
+Porter K.  (P)
+<BR>Toughill K.  
+<TD CLASS="detti">T000</TD>
+<TD CLASS="detti"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 0577 Journalism Internship</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+0577"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detti"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21334','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detti"><B>21334</B></TD>
+<TD CLASS="detti">01</TD>
+<TD CLASS="detti">Int</TD>
+<TD CLASS="detti">0</TD>
+<TD CLASS="detti">&nbsp;</TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP>C/D</TD>
+<TD CLASS="detti"NOWRAP> C/D</TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">42</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">42</p></TD>
+<TD CLASS="detti"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detti"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detti"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detti">
+Porter K.  (P)
+<BR>Toughill K.  
+<TD CLASS="detti">T000</TD>
+<TD CLASS="detti"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 1001Y Foundations of Journalism</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+1001"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>Y</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>23483</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1125<BR>1335-1425</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ALUMNI<BR>King's KING'S NEW ACAD ALUMNI</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (63)<BR> FYPJ  (35)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">63<BR>35</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lowe L. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23484','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23484</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1125<BR>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ALUMNI<BR>King's KING'S NEW ACAD KTS</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23485</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S NEW ACAD KTS</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Lowe L. 
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23486</B></TD>
+<TD CLASS="dettt">T02</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Johnson A.  (P)
+<BR>Lowe L.  
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettt">
+T02 is held in the Committee Room KING's AAB.
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23487</B></TD>
+<TD CLASS="dettt">T03</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S ARTS&ADM SEM7</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ingram K.  (P)
+<BR>Lowe L.  
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23488</B></TD>
+<TD CLASS="dettt">T04</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Toughill K.  (P)
+<BR>Lowe L.  
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23489</B></TD>
+<TD CLASS="dettt">T05</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S NEW ACAD SEM</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+McCluskey E.  (P)
+<BR>Lowe L.  
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23490</B></TD>
+<TD CLASS="dettt">T06</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettt">
+Held in KING's NAB Sem 2
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23491</B></TD>
+<TD CLASS="dettt">T07</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L1</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S ARTS&ADM VROOM</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Lowe L. 
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23492</B></TD>
+<TD CLASS="dettt">T08</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L2</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S ARTS&ADM SEM7</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23493</B></TD>
+<TD CLASS="dettt">T09</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L2</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S ARTS&ADM SHTFRD</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23494</B></TD>
+<TD CLASS="dettt">T10</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L2</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettt">
+Held in Committee room KING's AAB
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23495</B></TD>
+<TD CLASS="dettt">T11</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L2</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S ARTS&ADM VROOM</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23496</B></TD>
+<TD CLASS="dettt">T12</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L2</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>King's KING'S NEW ACAD KTS</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">T990</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 2001Y Reporting Techniques</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+2001"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>Y</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23497','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23497</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1625</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM COMLAB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Tailleur T. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+JOUR 2001Y 01 is held in Computer Lab 1.
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23498','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23498</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1625</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM COMLAB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Tailleur T. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+JOUR 2001Y 02 is held in Computer Lab 1.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 2004 Introduction to Radio</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+2004"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21335</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1735-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ARCHIB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Snobelen S. 
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 2400 Science and the Media</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+2400"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=HSTC&s_numb=2400&s_district=100">HSTC 2400</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>24001</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1735-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD KTS</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3005 Broadcast Reporting.</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3005"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21337</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1235-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM CLASS3</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (15)<BR> JNLH  (10)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15<BR>10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Newhook S.  (P)
+<BR>Kirkaldy D.  
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3122 Ethics of Journalism</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3122"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21338</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1125</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM SHTFRD</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (10)<BR> JNLH  (20)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10<BR>20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Turnbull G. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3333 News Media & Courts in Canada</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3333"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=CANA&s_numb=3333&s_district=100">CANA 3333</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21339</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ALUMNI</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (20)<BR> JNLH  (40)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20<BR>40</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">66</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Boomer R. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3441 Advanced Creative Nonfiction</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3441"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21341','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>21341</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM SEM2</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lowe L. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3540 Feature Writing</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3540"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21342</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM SEM2</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lowe L. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3550 Copy Editing.</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3550"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21344</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM COMLAB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (10)<BR> JNLH  (15)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10<BR>15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+McCluskey E. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+JOUR 3550 is held in Computer Lab 1.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3557 Intro to Online Journalism</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3557"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21345</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM COMLAB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (10)<BR> JNLH  (15)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10<BR>15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+JOUR 3557 is held in Computer Lab 1.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3560 Great Journalists</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3560"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21346','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>21346</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM SEM2</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">OPEN (15)<BR> JNLH  (10)</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15<BR>10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0<BR>&nbsp;</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Swick D. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 3660 Photojournalism</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+3660"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21347</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM HALIB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Creagen M. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21348</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD SCOTIA</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ackerman N. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21349</B></TD>
+<TD CLASS="dettl">03</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD SCOTIA</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ackerman N. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21350</B></TD>
+<TD CLASS="dettl">04</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM SHTFRD</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Creagen M. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>21351</B></TD>
+<TD CLASS="dettl">05</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S ARTS&ADM HALIB</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Harper J. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Students must have their own digital cameras to take this
+course.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 4992 Workshop</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+4992"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>K</B>)
+: 04-JAN-2016 - 13-FEB-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23165','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23165</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 4993 Workshop</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+4993"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>L</B>)
+: 15-FEB-2016 - 27-MAR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23167','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23167</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 5333 News Media and the Courts</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+5333"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22834','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22834</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1835-2025</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ALUMNI</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Boomer R. 
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 5991 Workshop</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+5991"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>L</B>)
+: 15-FEB-2016 - 27-MAR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23168','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23168</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T990</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>JOUR 5992 Workshop</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=JOUR+5992"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>K</B>)
+: 04-JAN-2016 - 13-FEB-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23166','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23166</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

@@ -1,0 +1,114 @@
+"detthdr">
+<B>HAHP 2000 Human Growth & Development</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=HAHP+2000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21127','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>21127</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1005-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley ARTS CENTRE 406</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">85</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">85</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Stevens D. 
+<TD CLASS="dettl">T750</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>HAHP 3000 Community Development</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=HAHP+3000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21128','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>21128</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>Studley MCCAIN ARTS&SS 2162</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Fenton L. 
+<TD CLASS="dettl">T750</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>HAHP 3100 Intro to Research Methods</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=HAHP+3100"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=21129','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>21129</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1305-1425</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 135</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">77</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">77</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

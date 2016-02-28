@@ -1,0 +1,9 @@
+#Object wrapper for interacting with mongo
+from pymongo import MongoClient
+import connectioninfo
+
+class DatabaseConnection:
+    def __init__(self) :
+        self.M=MongoClient(connectioninfo.ip,connectioninfo.port)
+        
+    

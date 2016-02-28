@@ -1,0 +1,392 @@
+"detthdr">
+<B>PERI 5100X Basic Sciences for Graduate De</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+5100"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=14039','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>14039</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ghiabi E.  (P)
+<BR>Matthews D.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 5110 Clinical Periodontics</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+5110"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>13240</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 5120 Evidence-Base Dent&Biostat Gra</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+5120"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13241','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13241</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ghiabi E.  (P)
+<BR>Matthews D.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 6110 Clinical Periodontics II</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+6110"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13242','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13242</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 6160 Oral Med, Path, Rad for Grad S</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+6160"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13243','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13243</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">2</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Matthews D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 7110 Clinical Periodontics III</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+7110"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>13244</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Matthews D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 7130 Graduate Dentistry Seminar III</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+7130"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13245','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13245</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0805-0855</TD>
+<TD CLASS="dettl"NOWRAP>Carleton DENTISTRY 5214</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 7140X Hospital Rotation for Grad Per</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+7140"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>14040</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">1.5</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Matthews D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">1.5</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 7150 Literature Review in Periodont</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+7150"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13246','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13246</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>W<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0805-1155<BR>1535-1625<BR>0805-1355<BR>0905-1125</TD>
+<TD CLASS="dettl"NOWRAP>Carleton DENTISTRY 5214<BR>Carleton DENTISTRY 5214<BR>Carleton DENTISTRY 5214<BR>Carleton DENTISTRY 5214</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>PERI 7170 Research Practicum Grad Dent</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PERI+7170"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13247','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13247</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">18</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

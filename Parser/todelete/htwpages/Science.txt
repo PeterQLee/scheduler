@@ -1,0 +1,1158 @@
+"detthdr">
+<B>SCIE 1111 Writing for the Sciences</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=SCIE+1111"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>22264</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley KENNETH C ROWE MANAG 1020</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">120</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">120</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Juckes T. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+A supplementary lab "Not Required" is offered on Wednesdays
+from 1805-1955 in the Killam Library, Room 4106 from Jan 07
+to Apr 01.
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22265</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>0935-1025</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22266</B></TD>
+<TD CLASS="dettt">T02</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1135-1225</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22267</B></TD>
+<TD CLASS="dettt">T03</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1325</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B4082</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22268</B></TD>
+<TD CLASS="dettt">T04</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1425</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B4082</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22269</B></TD>
+<TD CLASS="dettt">T05</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 4013</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22270</B></TD>
+<TD CLASS="dettt">T06</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1625</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 4013</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22271</B></TD>
+<TD CLASS="dettt">T07</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>0935-1025</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22272</B></TD>
+<TD CLASS="dettt">T08</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22273</B></TD>
+<TD CLASS="dettt">T09</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1135-1225</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22274</B></TD>
+<TD CLASS="dettt">T10</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1325</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22275</B></TD>
+<TD CLASS="dettt">T11</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1425</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22276</B></TD>
+<TD CLASS="dettt">T12</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22277</B></TD>
+<TD CLASS="dettt">T13</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1625</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22278</B></TD>
+<TD CLASS="dettt">T14</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>0935-1025</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B4082</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22279</B></TD>
+<TD CLASS="dettt">T15</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1135-1225</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B4082</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22280</B></TD>
+<TD CLASS="dettt">T16</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1325</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22281</B></TD>
+<TD CLASS="dettt">T17</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1425</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22282</B></TD>
+<TD CLASS="dettt">T18</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 4013</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22283</B></TD>
+<TD CLASS="dettt">T19</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1625</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 4013</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22284</B></TD>
+<TD CLASS="dettt">T20</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>0935-1025</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22285</B></TD>
+<TD CLASS="dettt">T21</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1125</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22286</B></TD>
+<TD CLASS="dettt">T22</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1135-1225</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22287</B></TD>
+<TD CLASS="dettt">T23</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1325</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B77123</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22288</B></TD>
+<TD CLASS="dettt">T24</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1425</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B812</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22289</B></TD>
+<TD CLASS="dettt">T25</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 3011</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22290</B></TD>
+<TD CLASS="dettt">T26</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1625</TD>
+<TD CLASS="dettt"NOWRAP>Studley MONA CAMPBELL BUILDING 3011</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Juckes T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>SCIE 1505Y Integrated Science</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=SCIE+1505"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>24100</B></TD>
+<TD CLASS="dettb">B01</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">L1</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>0905-1125</TD>
+<TD CLASS="dettb"NOWRAP>Studley LSC-BIOL&EARTH B22055</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Staicer C. 
+<TD CLASS="dettb">T610</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>24103</B></TD>
+<TD CLASS="dettb">B02</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">L1</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettb"NOWRAP>1435-1725</TD>
+<TD CLASS="dettb"NOWRAP>Studley LSC-BIOL&EARTH B2102</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Staicer C. 
+<TD CLASS="dettb">T610</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=23851','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>23851</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">9</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>W<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1025<BR>1035-1125<BR>1435-1625<BR>1335-1455</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C240<BR>Studley LSC-COMMON AREA C240<BR>Studley LSC-COMMON AREA C236<BR> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Staicer C. 
+<TD CLASS="dettl">T621</TD>
+<TD CLASS="dettl"><p class="rightaligntext">9</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Students must have a major of Integrated Science Program to
+register for SCIE 1505. Please use Block Registration
+For lecture, lab, and field trip schedules, please see
+<a href="http://disp.science.dal.ca/">
+<font color="blue">disp.science.dal.ca</a>.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>SCIE 2000Y Hist of Scie fr Ancient-Modern</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=SCIE+2000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=HIST&s_numb=2074Y&s_district=100">HIST 2074Y</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=HSTC&s_numb=1200Y&s_district=100">HSTC 1200Y</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=HSTC&s_numb=2200Y&s_district=100">HSTC 2200Y</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOL&s_numb=3503Y&s_district=100">BIOL 3503Y</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>Y</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>23854</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1435-1525</TD>
+<TD CLASS="dettl"NOWRAP>King's KING'S NEW ACAD ALUMNI</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">275</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23855</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1625</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">125</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>23856</B></TD>
+<TD CLASS="dettt">T02</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettt"NOWRAP>1435-1525</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">155</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettt">Staff</TD>
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>SCIE 3111 Communicating Science</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=SCIE+3111"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">S &nbsp;</TD>
+<TD CLASS="dettl"><B>22291</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0925</TD>
+<TD CLASS="dettl"NOWRAP>Studley MONA CAMPBELL BUILDING 1107</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Juckes T. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+SCIE 3111 is open only to those who have received
+instructor's approval.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>SCIE 4444 Leadership in Science</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=SCIE+4444"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=BIOL&s_numb=4444&s_district=100">BIOL 4444</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22292','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22292</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1805-1955</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C220</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ryan A. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>22293</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>2005-2125</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-COMMON AREA C220</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>

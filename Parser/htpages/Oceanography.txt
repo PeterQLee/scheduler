@@ -1,0 +1,983 @@
+"detthdr">
+<B>OCEA 1000X Conversations w/ Ocea Scientis</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+1000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>14015</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1005-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 304</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">60</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">60</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ross T. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Thursday alternates between lecture and tutorial.
+The first class is a lecture.
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>14016</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1005-1125</TD>
+<TD CLASS="dettt"NOWRAP>Studley LSC-BIOL&EARTH B812</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ross T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>14017</B></TD>
+<TD CLASS="dettt">T02</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1005-1125</TD>
+<TD CLASS="dettt"NOWRAP> C/D</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ross T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>14018</B></TD>
+<TD CLASS="dettt">T03</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1005-1125</TD>
+<TD CLASS="dettt"NOWRAP>Studley KILLAM LIBRARY 4106</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ross T. 
+<TD CLASS="dettt">T610</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 2000X The Blue Planet</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+2000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>14019</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0955</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C242</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">134</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">134</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">149</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Hill P. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 2001 The Blue Planet I</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+2001"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">S &nbsp;</TD>
+<TD CLASS="dettl"><B>12064</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0955</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C242</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">149</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Hill P. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 2020 Tools & Concepts in Ocean Scie</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+2020"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12065</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1625</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-BIOL&EARTH B44012</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">24</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">24</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+deGelleke L.  (P)
+<BR>Taggart C.  
+<TD CLASS="dettl">T620</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 2800 Climate Change</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+2800"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=GEOG&s_numb=2800&s_district=100">GEOG 2800</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=2800&s_district=100">PHYC 2800</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12066</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley MCCAIN ARTS&SS AUD-1</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">74</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">74</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">234</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lesins G. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 3001 Intro to Physical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+3001"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12067</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1135-1225</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-OCEANOGRAPH O3655</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kelley D. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 3002 Intro to Chemical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+3002"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12068</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C234</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Thomas H. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 3004 The Last Billion Years</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+3004"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12069</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C208</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">32</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">32</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kienast S. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4120 Physical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4120"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5120&s_district=100">OCEA 5120</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12070</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-OCEANOGRAPH O3655</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">40</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kelley D. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4130 Chemical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4130"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5130&s_district=100">OCEA 5130</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12071</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-1025<BR>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-PSYCHOLOGY P5208<BR>Studley LSC-PSYCHOLOGY P5208</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Wallace D. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4200X Honours Research</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4200"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>14020</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">9</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">9</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Metaxas A. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4370 Deep Sea Biology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4370"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5370&s_district=100">OCEA 5370</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BIOL&s_numb=4370&s_district=100">BIOL 4370</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MARI&s_numb=4370&s_district=100">MARI 4370</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12072</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C212</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">23</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Metaxas A. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4411 Atmospheric Dynamics I</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4411"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=4411&s_district=100">PHYC 4411</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=5411&s_district=100">PHYC 5411</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5411&s_district=100">OCEA 5411</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12073</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1135-1225</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 304</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">42</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Folkins I. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4520 Intro to Atmospheric Sc</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4520"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=5520&s_district=100">PHYC 5520</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=4520&s_district=100">PHYC 4520</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5520&s_district=100">OCEA 5520</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12074</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1735-2025</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 101</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">65</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4541 Synoptic Meteorology I</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4541"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=5540&s_district=100">PHYC 5540</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=4540&s_district=100">PHYC 4540</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5541&s_district=100">OCEA 5541</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12075</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1305-1425</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 302</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">40</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Titus M. 
+<TD CLASS="dettl">T620</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>12076</B></TD>
+<TD CLASS="dettb">B01</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1435-1525</TD>
+<TD CLASS="dettb"NOWRAP>Studley MCCAIN ARTS&SS 2104</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettb">
+Titus M. 
+<TD CLASS="dettb">T620</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 4595 Atmospheric Chemistry</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+4595"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=5595&s_district=100">OCEA 5595</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=5595&s_district=100">PHYC 5595</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CHEM&s_numb=4595&s_district=100">CHEM 4595</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_numb=4595&s_district=100">PHYC 4595</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>12077</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1425</TD>
+<TD CLASS="dettl"NOWRAP>Studley SIR JAMES DUNN 101</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">4</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">4</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">65</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Martin R. 
+<TD CLASS="dettl">T610</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 5120 Physical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+5120"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=4120&s_district=100">OCEA 4120</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13216','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13216</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-OCEANOGRAPH O3655</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">40</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kelley D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 5130 Chemical Oceanography</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+5130"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=4130&s_district=100">OCEA 4130</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13217','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13217</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-1025<BR>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-PSYCHOLOGY P5208<BR>Studley LSC-PSYCHOLOGY P5208</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Wallace D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 5285 Marine Biogeochemical Process</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+5285"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13219','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13219</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kienast M.  (P)
+<BR>Thomas H.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>OCEA 5370 Deep Sea Biology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=OCEA+5370"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_numb=4370&s_district=100">OCEA 4370</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BIOL&s_numb=4370&s_district=100">BIOL 4370</A>
+, 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MARI&s_numb=4370&s_district=100">MARI 4370</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13220','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13220</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1125</TD>
+<TD CLASS="dettl"NOWRAP>Studley LSC-COMMON AREA C212</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">3</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">3</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">23</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>

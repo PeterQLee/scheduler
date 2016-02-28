@@ -1,0 +1,900 @@
+"detthdr">
+<B>ARCH 1000X Introduction to Architecture</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+1000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>13519</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W<BR>W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1435-1725<BR>1435-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B310<BR>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Henry P. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 1200X Scie of the Built Environment</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+1200"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>13520</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1435-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA18</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">60</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">60</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Pitcairn D. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 2000 Visual Thinking A</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+2000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>10125</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1435-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton A.L. MACDONALD D414</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Kam K. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 2025 Design Drawing</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+2025"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PLAN&s_numb=2025&s_district=100">PLAN 2025</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"><B>10126</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1735-2025</TD>
+<TD CLASS="dettl"NOWRAP>Sexton A.L. MACDONALD D410</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">17</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">17</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">45</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Tondino L. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 3001 Design</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+3001"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=10127','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>10127</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>M<BR>M<BR>M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>R<BR>R<BR>R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1405-1455<BR>1405-1725<BR>1405-1725<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA19<BR>Sexton RALPH M MEDJUCK BLDG HB4<BR>Sexton RALPH M MEDJUCK BLDG HD4<BR>Sexton RALPH M MEDJUCK BLDG 2HD3</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Macy C. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 3104 Found in Arch Hist & Theory</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+3104"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=10128','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>10128</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1105-1225<BR>1005-1125</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA19<BR>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 3207 Building Technology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+3207"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=10129','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>10129</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>1105-1225<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA19<BR>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Jannasch E. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 3301 Professional Practice</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+3301"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=10130','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>10130</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">1</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1105-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Fitzgerald S. 
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">1</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 3501 Representation</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+3501"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>1</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=10131','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>10131</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1405-1725<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA18<BR>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">70</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T110</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5002 Urban Housing Studio</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5002"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12682','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12682</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>1405-1725<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG 2HD3<BR>Sexton RALPH M MEDJUCK BLDG HB4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Savage N.  (P)
+<BR>Wanzel J.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Co-requisite ARCH 5102
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5004 Urban Systems Studio</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5004"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12683','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12683</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>1405-1725<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG 2HD1<BR>Sexton RALPH M MEDJUCK BLDG HB4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Fitzgerald S. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Co-requisites ARCH 5104, ARCH 5211 section 2
+and ARCH 6510 section 2
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12684','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12684</B></TD>
+<TD CLASS="dettl">1</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>1405-1725<BR>1405-1725</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG 2HD1<BR>Sexton RALPH M MEDJUCK BLDG HB4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Venart C. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Co-requisites ARCH 5104, ARCH 6510 section 1
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5012 Urban Program Studio</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5012"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12685','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12685</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225<BR>C/D</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HB4<BR> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">18</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">18</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Savage N.  (P)
+<BR>Wanzel J.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+For Outbound Exchange Students only.
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5102 Housing Theory</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5102"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12686','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12686</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HB4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">18</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">18</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Savage N.  (P)
+<BR>Wanzel J.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5104 Urban Systems</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5104"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12687','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12687</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA18</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">33</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">33</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Macy C. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5198 Humanities Seminar</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5198"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12688','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12688</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+For Outbound Exchange Students only
+</TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5210 Life Cycle Analysis</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5210"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12689','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12689</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HD4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">13</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">13</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Parsons A. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5211 The Construction Detail</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5211"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12690','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12690</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA18</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lilley B. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+ARCH 5004.03 section 02, ARCH 5104.03
+and ARCH 6510.03 section 02
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12691','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12691</B></TD>
+<TD CLASS="dettl">1</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HB4</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+MacKay-Lyons B. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5216 Bldg Systems for Thesis.</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5216"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12692','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12692</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">6</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>M<BR>M<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T<BR>&nbsp;<BR>T<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>W<BR>W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1025<BR>0905-1225<BR>0905-1225<BR>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA19<BR>Sexton RALPH M MEDJUCK BLDG HB4<BR>Sexton RALPH M MEDJUCK BLDG HD4<BR>Sexton RALPH M MEDJUCK BLDG HA19</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Bonnemaison S.  (P)
+<BR>Lilley B.  
+<BR>Mandeville J.  
+<BR>Savage N.  
+<BR>Venart C.  
+<BR>Verissimo C.  
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">6</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5219 Conservation Technology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5219"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12693','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12693</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0905-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton RALPH M MEDJUCK BLDG HA18</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">14</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Parsons A. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>ARCH 5298 Technology Seminar</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ARCH+5298"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12694','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12694</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">7</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

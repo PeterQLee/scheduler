@@ -1,0 +1,1319 @@
+"detthdr">
+<B>CIVL 3200 Transportation Engineerng</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+3200"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20470','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20470</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0955</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ali N. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20471</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1525</TD>
+<TD CLASS="dettt"NOWRAP>Sexton A.L. MACDONALD D416</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ali N. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 3310 Engineering Hydrology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+3310"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20472','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20472</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1025</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Hansen D. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20473</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1525</TD>
+<TD CLASS="dettt"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Hansen D. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 3451 Water Quality & Treatment</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+3451"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20474','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20474</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;<BR>F</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0925<BR>0805-0855</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B227<BR>Sexton B BUILDING B227</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Gagnon G. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20475','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettb"><B>20475</B></TD>
+<TD CLASS="dettb">B01</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1705-1855</TD>
+<TD CLASS="dettb"NOWRAP>Sexton N BUILDING N321</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Gagnon G. 
+<TD CLASS="dettb">T523</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>20476</B></TD>
+<TD CLASS="dettb">B02</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1435-1625</TD>
+<TD CLASS="dettb"NOWRAP>Sexton N BUILDING N321</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">24</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">24</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Gagnon G. 
+<TD CLASS="dettb">T523</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>20477</B></TD>
+<TD CLASS="dettb">B03</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1635-1825</TD>
+<TD CLASS="dettb"NOWRAP>Sexton N BUILDING N321</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">22</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">22</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Gagnon G. 
+<TD CLASS="dettb">T523</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20478</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1605-1655</TD>
+<TD CLASS="dettt"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Gagnon G. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 3515 Struct. Sys. II: Loads & Behav</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+3515"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20479','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20479</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1005-1125</TD>
+<TD CLASS="dettl"NOWRAP>Sexton IND ENG&CONT ED 121</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Thorburn J. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20480</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1425</TD>
+<TD CLASS="dettt"NOWRAP>Sexton ELECTRICAL ENGI 1C104</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">71</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Thorburn J. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 3740 Computations & Syst. Modelling</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+3740"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20481','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20481</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1035-1155</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B229</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">59</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">59</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Taheri F. 
+<TD CLASS="dettl">T510</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Civil Engineering Students Only
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20482','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20482</B></TD>
+<TD CLASS="dettl">02</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0955</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B310</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Taheri F. 
+<TD CLASS="dettl">T510</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B>NOTE</B></TD>
+<TD COLSPAN="22" CLASS="dettl">
+Civil Engineering Students Only
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettt"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20483','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettt"><B>20483</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettt"NOWRAP>1035-1225</TD>
+<TD CLASS="dettt"NOWRAP>Sexton A.L. MACDONALD D501</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">59</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">59</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Taheri F. 
+<TD CLASS="dettt">T510</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20484','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettt"><B>20484</B></TD>
+<TD CLASS="dettt">T02</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1235-1425</TD>
+<TD CLASS="dettt"NOWRAP>Sexton B BUILDING B310</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Taheri F. 
+<TD CLASS="dettt">T510</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4250 Highway Engineering</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4250"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20485','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20485</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0935-1055</TD>
+<TD CLASS="dettl"NOWRAP>Sexton A.L. MACDONALD 4D415</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ali N. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20486</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1535-1725</TD>
+<TD CLASS="dettt"NOWRAP>Sexton A.L. MACDONALD D413</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">12</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ali N. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4350 Hydraulic Engineering</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4350"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20487','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20487</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0955</TD>
+<TD CLASS="dettl"NOWRAP>Sexton ELECTRICAL ENGI 1C104</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">35</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">35</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Satish M. 
+<TD CLASS="dettl">T510</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20488</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1625</TD>
+<TD CLASS="dettt"NOWRAP>Sexton A.L. MACDONALD D414</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">35</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">35</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Satish M. 
+<TD CLASS="dettt">T510</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4359 Form & Process in Alluvial Chn</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4359"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+<BR><span style="font-size:80%">Crosslisted with 
+<A HREF="fysktime.P_DisplaySchedule?s_term=201620&s_subj=CIVL&s_numb=6159&s_district=100">CIVL 6159</A>
+</span>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20489','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20489</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>0835-0925</TD>
+<TD CLASS="dettl"NOWRAP>Sexton A.L. MACDONALD D414</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettl">
+Hansen D. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>20490</B></TD>
+<TD CLASS="dettb">B01</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1335-1625</TD>
+<TD CLASS="dettb"NOWRAP> C/D</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">25</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+</TD>
+<TD CLASS="dettb">
+Hansen D. 
+<TD CLASS="dettb">T523</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4410 Engineering Hydrogeology</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4410"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20491','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20491</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1135-1255</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">68</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">68</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Liu L. 
+<TD CLASS="dettl">T510</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20492</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1335-1525</TD>
+<TD CLASS="dettt"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">68</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">68</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Liu L. 
+<TD CLASS="dettt">T510</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4460 Solid Waste Management</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4460"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20493','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20493</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">F</p></TD>
+<TD CLASS="dettl"NOWRAP>1135-1225</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B227</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Walsh M. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"><B>20494</B></TD>
+<TD CLASS="dettb">B01</TD>
+<TD CLASS="dettb">Lab</TD>
+<TD CLASS="dettb">0</TD>
+<TD CLASS="dettb">&nbsp;</TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">W</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP>1335-1625</TD>
+<TD CLASS="dettb"NOWRAP>Sexton B BUILDING B228</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettb"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettb"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettb"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettb">
+Walsh M. 
+<TD CLASS="dettb">T523</TD>
+<TD CLASS="dettb"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4560 Spec. Topics in Struct. Syst.</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4560"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20495','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20495</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1005-1125</TD>
+<TD CLASS="dettl"NOWRAP>Sexton A.L. MACDONALD D413</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Liu Y. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20496</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">M</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>0935-1125</TD>
+<TD CLASS="dettt"NOWRAP>Sexton A.L. MACDONALD D413</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">30</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Liu Y. 
+<TD CLASS="dettt">T523</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4710 Construction Planning</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4710"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20497','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20497</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1335-1455</TD>
+<TD CLASS="dettl"NOWRAP>Sexton B BUILDING B308</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">41</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">41</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Ali N. 
+<TD CLASS="dettl">T510</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR>
+<TD CLASS="dettt">&nbsp;</TD>
+<TD CLASS="dettt"><B>20498</B></TD>
+<TD CLASS="dettt">T01</TD>
+<TD CLASS="dettt">Tut</TD>
+<TD CLASS="dettt">0</TD>
+<TD CLASS="dettt">L0</TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">T</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP>1505-1655</TD>
+<TD CLASS="dettt"NOWRAP>Sexton B BUILDING B308</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">41</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">41</p></TD>
+<TD CLASS="dettt"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettt"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettt"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettt">
+Ali N. 
+<TD CLASS="dettt">T510</TD>
+<TD CLASS="dettt"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 4802 Senior Project II</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+4802"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>1</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=20499','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>20499</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">2</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">R</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>1535-1555</TD>
+<TD CLASS="dettl"NOWRAP>Sexton G.H. MURRAY G215</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">80</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Doncaster A. 
+<TD CLASS="dettl">T523</TD>
+<TD CLASS="dettl"><p class="rightaligntext">2</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6000 Directed Studies-Masters</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22599','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22599</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+El Naggar H. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6101 Adv Strengths of Material</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6101"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22600','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22600</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Liu Y. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6108 Graduate Seminar - Masters</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6108"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22601','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22601</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">50</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+El Naggar H. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6115 Design Water Treatment Plants</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6115"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22602','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22602</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Gagnon G. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6118 Advanced Wastewater Treatment</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6118"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22603','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22603</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Walsh M. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6126 Foundation Engineering I</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6126"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22604','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22604</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lake C. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>CIVL 6139 Transport Operations</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CIVL+6139"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#000099">WINTER
+ (<B>2</B>)
+: 04-JAN-2016 - 06-APR-2016</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201620&s_crn=22605','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>22605</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

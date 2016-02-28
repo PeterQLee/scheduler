@@ -1,0 +1,545 @@
+"detthdr">
+<B>BMNG 5060X Clinical Technologies</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5060"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>X</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=13533','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>13533</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">0</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Bance M. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5110 Biocompat & Biomateri Desgn</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5110"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12761','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12761</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">20</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Lee J. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5260 Priniples of Medical Imaging</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5260"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12762','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12762</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Brown J. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5310 Biomedical Business I</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5310"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12763','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12763</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">
+Roach D. 
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5410 Dir Read in Biomedical Eng</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5410"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12764','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12764</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5420 Directed Read Biomedical Eng</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5420"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12765','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12765</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5430 Directed Read Biomedical Eng</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5430"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12766','xx','width=600')">S R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12766</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">3</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">5</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">3</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5500 BME MSC Seminar</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5500"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12767','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12767</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">0</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">21</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">21</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 5510 BME MSc Thesis Proposal</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+5510"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detts"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12768','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detts"><B>12768</B></TD>
+<TD CLASS="detts">01</TD>
+<TD CLASS="detts">Ths</TD>
+<TD CLASS="detts">0</TD>
+<TD CLASS="detts">&nbsp;</TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP>C/D</TD>
+<TD CLASS="detts"NOWRAP> C/D</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">13</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">13</p></TD>
+<TD CLASS="detts"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detts"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detts">Staff</TD>
+<TD CLASS="detts">T911</TD>
+<TD CLASS="detts"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 6500 BME PhD Seminar</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+6500"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="dettl"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12769','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="dettl"><B>12769</B></TD>
+<TD CLASS="dettl">01</TD>
+<TD CLASS="dettl">Lec</TD>
+<TD CLASS="dettl">0</TD>
+<TD CLASS="dettl">&nbsp;</TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP>C/D</TD>
+<TD CLASS="dettl"NOWRAP> C/D</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">15</p></TD>
+<TD CLASS="dettl"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="dettl"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="dettl"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="dettl">Staff</TD>
+<TD CLASS="dettl">T911</TD>
+<TD CLASS="dettl"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 6510 Bme PhD Thesis Proposal</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+6510"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detts"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12770','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detts"><B>12770</B></TD>
+<TD CLASS="detts">01</TD>
+<TD CLASS="detts">Ths</TD>
+<TD CLASS="detts">0</TD>
+<TD CLASS="detts">&nbsp;</TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP>C/D</TD>
+<TD CLASS="detts"NOWRAP> C/D</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="detts"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detts"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detts">Staff</TD>
+<TD CLASS="detts">T911</TD>
+<TD CLASS="detts"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 6520 BME PhD Candidacy Examination</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+6520"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detts"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12771','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detts"><B>12771</B></TD>
+<TD CLASS="detts">01</TD>
+<TD CLASS="detts">Ths</TD>
+<TD CLASS="detts">0</TD>
+<TD CLASS="detts">&nbsp;</TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP>C/D</TD>
+<TD CLASS="detts"NOWRAP> C/D</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">10</p></TD>
+<TD CLASS="detts"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detts"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detts">Staff</TD>
+<TD CLASS="detts">T911</TD>
+<TD CLASS="detts"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 9000 MASc Thesis</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+9000"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detts"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12772','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detts"><B>12772</B></TD>
+<TD CLASS="detts">01</TD>
+<TD CLASS="detts">Ths</TD>
+<TD CLASS="detts">0</TD>
+<TD CLASS="detts">&nbsp;</TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP>C/D</TD>
+<TD CLASS="detts"NOWRAP> C/D</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="detts"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detts"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>
+<TD CLASS="detts">Staff</TD>
+<TD CLASS="detts">T911</TD>
+<TD CLASS="detts"><p class="rightaligntext">0</p></TD>
+</TR>
+<TR VALIGN="middle">
+<TD COLSPAN="15" CLASS="detthdr">
+<B>BMNG 9530 Doctoral Thesis</B> <A HREF="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=BMNG+9530"    target="_blank" ><IMG SRC="/bangifs/hyggfor2.gif" ALIGN="top" ALT="Course Description" CLASS="headerImg" TITLE="Course Description"  NAME="ForwardArrow" HSPACE=0 VSPACE=0 BORDER=0></A>
+</TD>
+<TD COLSPAN="8" CLASS="dewhitesml">
+<span style="color=#009900">FALL
+ (<B>2</B>)
+: 10-SEP-2015 - 08-DEC-2015</span>
+</TD>
+</TR>
+<TR>
+<TD CLASS="detts"><B><A HREF="JavaScript:windowOpen('fysktime.P_FindRestrictions?s_term=201610&s_crn=12773','xx','width=600')">R</A></B>&nbsp;</TD>
+<TD CLASS="detts"><B>12773</B></TD>
+<TD CLASS="detts">01</TD>
+<TD CLASS="detts">Ths</TD>
+<TD CLASS="detts">0</TD>
+<TD CLASS="detts">&nbsp;</TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="centeraligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP>C/D</TD>
+<TD CLASS="detts"NOWRAP> C/D</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">0</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">99</p></TD>
+<TD CLASS="detts"NOWRAP>&nbsp;</TD>
+<TD NOWRAP CLASS="detts"><p class="rightaligntext"></p>
+<font color="green">   0.0%
+</font>
+</TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+<TD CLASS="detts"NOWRAP><p class="rightaligntext">&nbsp;</p></TD>
+</TD>

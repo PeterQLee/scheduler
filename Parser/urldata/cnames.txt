@@ -1,0 +1,117 @@
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ACSC&s_district=100">Actuarial Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ANAT&s_district=100">Anatomy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ARTC&s_district=100">Applied Hlth Services Research</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ARBC&s_district=100">Arabic</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ARCH&s_district=100">Architecture</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ASSC&s_district=100">Arts & Social Sciences</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BIOC&s_district=100">Biochem & Molecular Biology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BIOE&s_district=100">Biological Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BIOL&s_district=100">Biology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BMNG&s_district=100">Biomedical Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=BUSI&s_district=100">Business Admin</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CANA&s_district=100">Canadian Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CHEE&s_district=100">Chemical Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CHEM&s_district=100">Chemistry</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CHIN&s_district=100">Chinese</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CIVL&s_district=100">Civil Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CLAS&s_district=100">Classics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=COMM&s_district=100">Commerce</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CH_E&s_district=100">Community Health&Epidemiology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CPST&s_district=100">Complementary Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CSCI&s_district=100">Computer Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CTMP&s_district=100">Contemporary Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=CRWR&s_district=100">Creative Writing</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=DENT&s_district=100">Dentistry</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=DMUT&s_district=100">Diag Med Ultrasound Tech</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=DCYT&s_district=100">Diagnostic Cytology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=EMSP&s_district=100">Early Modern Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ERTH&s_district=100">Earth Sciences</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ECON&s_district=100">Economics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ECED&s_district=100">Electrical & Computer Engineer</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ECMM&s_district=100">Electronic Commerce</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENGI&s_district=100">Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=INWK&s_district=100">Engineering Internetworking</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENGM&s_district=100">Engineering Mathematics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENGL&s_district=100">English</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENSL&s_district=100">English Language (CE)</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENVE&s_district=100">Environmental Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENVS&s_district=100">Environmental Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ENVI&s_district=100">Environmental Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=EURO&s_district=100">European Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=FILM&s_district=100">Film Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=FOSC&s_district=100">Food Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=FREN&s_district=100">French</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=GWST&s_district=100">Gender & Women's Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=GEOG&s_district=100">Geography</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=GERM&s_district=100">German</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HESA&s_district=100">Health Administration</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HINF&s_district=100">Health Informatics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HLTH&s_district=100">Health Professions</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HPRO&s_district=100">Health Promotion</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HSCE&s_district=100">Health Sciences Education</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HAHP&s_district=100">Health and Human Performance</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HSTC&s_district=100">Hist of Science & Technology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HIST&s_district=100">History</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=HUCD&s_district=100">Human Communication Disorders</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=IENG&s_district=100">Industrial Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=INFX&s_district=100">Informatics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=INFO&s_district=100">Information Management</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=INTE&s_district=100">Interdisc Studies (Graduate)</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=INTD&s_district=100">International Develop Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=IPHE&s_district=100">Interprofessional Health Educ</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ITAL&s_district=100">Italian</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=JOUR&s_district=100">Journalism</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=KINE&s_district=100">Kinesiology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=KING&s_district=100">King's Foundation Year Program</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=LAWS&s_district=100">Law</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=LEIS&s_district=100">Leisure Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MGMT&s_district=100">Management</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MARA&s_district=100">Marine Affairs</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MARI&s_district=100">Marine Biology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MATL&s_district=100">Materials Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MATH&s_district=100">Mathematics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MTHA&s_district=100">Mathematics-Agricultural Camp</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MECH&s_district=100">Mechanical Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MEDP&s_district=100">Medical Physics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MEDS&s_district=100">Medical Sciences</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MICI&s_district=100">Microbiology & Immunology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MINE&s_district=100">Mineral Resource Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=MUSC&s_district=100">Music</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=NESC&s_district=100">Neuroscience</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=NUMT&s_district=100">Nuclear Medicine Technology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=NURS&s_district=100">Nursing</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCCU&s_district=100">Occupational Therapy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=OCEA&s_district=100">Oceanography</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=ORAL&s_district=100">Oral Surgery</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHDP&s_district=100">PHD Program</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PATH&s_district=100">Pathology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PERI&s_district=100">Periodontics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PETR&s_district=100">Petroleum Engineering</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHAC&s_district=100">Pharmacology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHAR&s_district=100">Pharmacy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHIL&s_district=100">Philosophy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYC&s_district=100">Physics & Atmospheric Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYL&s_district=100">Physiology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PHYT&s_district=100">Physiotherapy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PLAN&s_district=100">Planning</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=POLI&s_district=100">Political Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PORT&s_district=100">Portuguese</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PGPH&s_district=100">Post-Graduate Pharmacy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PEAS&s_district=100">Process Engineering & App Scie</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PROS&s_district=100">Prosthodontics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PSYO&s_district=100">Psychology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=PUAD&s_district=100">Public Administration</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=RADT&s_district=100">Radiological Technology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=REGN&s_district=100">Registration Course-Graduate</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=RELS&s_district=100">Religious Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=RSPT&s_district=100">Respiratory Therapy</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=RUSN&s_district=100">Russian Studies</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=SCIE&s_district=100">Science</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=SLWK&s_district=100">Social Work</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=SOSA&s_district=100">Sociol & Social Anthropology</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=SPAN&s_district=100">Spanish & Latin American Stud</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=STAT&s_district=100">Statistics</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=SUST&s_district=100">Sustainability</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=THEA&s_district=100">Theatre</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=TYPR&s_district=100">Transition Year Program</a>
+<a href="fysktime.P_DisplaySchedule?s_term=201610&s_subj=VISC&s_district=100">Vision Science</a>

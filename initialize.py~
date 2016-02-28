@@ -1,0 +1,19 @@
+from pymongo import MongoClient
+
+M=MongoClient() #return code??
+g=M.unisq
+#check to make sure that db is not done (cleanse if otherwise)
+try:
+    g.create_collection("Choices")
+    g.create_collection("Courses")
+    
+    g.create_collections("Session")
+choices=g.Choices
+courses=g.Courses
+session=g.Session
+users=g.Users
+
+#make a fake user
+users.insert({"_id":0,"email":"placeholder","pass":"abcd","courses":[]}) #security
+
+#make sure stuff is initialized...
